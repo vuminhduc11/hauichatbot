@@ -1,0 +1,993 @@
+﻿    CHƯƠNG 1: Giới thiệu chung
+        1.1. Giới thiệu về trường đại học Công nghiệp Hà Nội
+Trường Đại học Công nghiệp Hà Nội là trường đại học công lập trực thuộc Bộ Công Thương, có truyền thống đào tạo cán bộ khoa học kỹ thuật, cán bộ kinh tế, công nhân kỹ thuật lâu đời nhất Việt Nam (tiền thân là Trường Chuyên nghiệp Hà Nội thành lập năm 1898 và Trường Chuyên nghiệp Hải Phòng thành lập năm 1913) và là một cơ sở đào tạo định hướng ứng dụng nhiều ngành, nhiều loại hình, nhiều cấp trình độ.
+            1.1.1 Cơ sở vật chất
+Trường Đại học Công nghiệp Hà Nội có 03 cơ sở đào tạo với diện tích hơn 50ha, trong đó cơ sở 1 và 2 ở Hà Nội; cơ sở 3 ở Phủ Lý - Hà Nam với diện tích gần 40ha, quy mô đào tạo trên 30.000 sinh viên, học viên; đào tạo nhiều ngành, nhiều cấp trình độ; đào tạo liên thông, đào tạo các chương trình ngắn hạn, chương trình hợp tác quốc tế.
+Trường có hệ thống hơn 300 phòng học lý thuyết, 50 phòng máy tính, 48 phòng học ngoại ngữ trang bị thiết bị hiện đại, 60 phòng học liệu, 200 phòng thực hành, thí nghiệm với hệ thống máy, thiết bị tiên tiến, công nghệ hiện đại, đồng bộ, đảm bảo chất lượng phục vụ công tác học tập, giảng dạy, nghiên cứu khoa học.
+Trung tâm Thông tin - Thư viện được thiết kế và tổ chức hoạt động theo mô hình thư viện điện tử, ứng dụng đồng bộ các giải pháp công nghệ mới trong quản lý vận hành, quản lý khai thác và quản lý phát triển với 02 Trung tâm Thông tin Thư viện ở 03 cơ sở với diện tích 6.532m2, trang bị 400.000 cuốn sách để phục vụ quá trình học tập, nghiên cứu cho cán bộ, giáo viên, giảng viên....
+Cả 3 cơ sở đều có hệ thống Ký túc xá - Nhà ăn với diện tích trên 40.000m2, gồm 545 phòng ở, nâng tổng số sinh viên được ở trongh ký túc xá lên gần 5.000 em.
+Quần thể các công trình thể thao, văn hóa của Trường được khép kín, đa chức năng, gồm: hệ thống các sân tập, nhà thi đấu, sân tennis, sân bóng đá, hội trường....
+Hệ thống chăm sóc sức khỏe: Trạm Y tế với các bác sĩ và y tá vững chuyên môn được trang bị đầy đủ thiết bị y tế cần thiết, cập nhật thông tin tình hình dịch bệnh và duy trì tốt khám sức khỏe định kỳ cho học sinh - sinh viên.
+            1.1.2 Truyền thống
+Trong lịch sử xây dựng và phát triển, Trường Đại học Công nghiệp Hà Nội vinh dự đón nhiều lãnh đạo cấp cao của Đảng, Nhà nước về thăm. Đặc biệt, Trường vinh dự được đón Chủ tịch Hồ Chí Minh về thăm 4 lần: lần thứ nhất tháng 9 năm 1945, lần thứ 2 tháng 9 năm 1955, lần thứ ba tháng 1 năm 1957 và lần thứ tư tháng 5 năm 1957.
+            1.1.3 Sứ mạng
+Đào tạo nhân lực chất lượng cao; sáng tạo và chuyển giao tri thức, công nghệ tới xã hội và cộng đồng đáp ứng yêu cầu thời kỳ cách mạng công nghiệp, phục vụ xã hội và đất nước.
+            1.1.4 Tầm nhìn
+Trở thành đại học đào tạo, nghiên cứu khoa học ứng dụng đa năng, phát triển theo mô hình đại học thông minh; đạt chuẩn quốc tế trong một số lĩnh vực then chốt; là sự lựa chọn hàng đầu của người học, cộng đồng và doanh nghiệp.
+            1.1.5 Giá trị cốt lõi
+Kỹ nghệ là nền tảng: Kết hợp truyền thống của trường kỹ nghệ đầu tiên tại Việt Nam và kỹ thuật, công nghệ hiện đại là nền tảng xây dựng và phát triển.
+Kiên định với mục tiêu: Kiên định trong xác định và triển khai thực hiện các hoạt động nhằm đạt mục tiêu.
+Kết nối tạo sức mạnh: Đoàn kết nội bộ, gắn kết đối tác tạo nên sức mạnh của nhà trường.
+Khách hàng là trung tâm: Hướng thị trường, đặt lợi ích và sự hài lòng của người học, khách hàng và các bên quan tâm là trung tâm các hoạt động.
+Khác biệt từ sáng tạo: Tạo ra sự khác biệt để đột phá nhờ sự sáng tạo.
+            1.1.6 Mục tiêu
+Trở thành đại học khoa học ứng dụng hàng đầu Việt Nam, theo mô hình tự chủ toàn diện, đi đầu trong xu thế chuyển đổi số và quản trị thông minh;
+Sản phẩm giáo dục đào tạo nằm trong top đầu Việt Nam về khả năng đáp ứng yêu cầu của thị trường lao động, được ghi nhận về năng lực sáng tạo và khởi nghiệp;
+Sản phẩm khoa học công nghệ được công nhận và ứng dụng rộng rãi trong nước, một số lĩnh vực đạt tầm khu vực và quốc tế.
+            1.1.7 Triết lý giáo dục
+Giáo dục toàn diện, vì sự phát triển bền vững và hội nhập.
+            1.1.8 Các môc lịch sử
+Trường Đại học Công nghiệp Hà Nội có bề dày lịch sử 125 năm xây dựng và phát triển, tiền thân là hai trường: Trường Chuyên nghiệp Hà Nội (thành lập năm 1898) và Trường Chuyên nghiệp Hải Phòng (thành lập năm 1913). Qua nhiều lần sáp nhập, đổi tên, nâng cấp từ trường Trung học Công nghiệp I lên Trường Cao đẳng Công nghiệp Hà Nội và Trường Đại học Công nghiệp Hà Nội. Trải qua hơn 120 năm, ở giai đoạn nào, Trường cũng luôn được đánh giá là cái nôi đào tạo cán bộ kỹ thuật, cán bộ kinh tế hàng đầu của cả nước, nhiều cựu học sinh của Trường đã trở thành lãnh đạo cấp cao của Đảng, Nhà nước đã đi vào lịch sử như: Hoàng Quốc Việt, Nguyễn Thanh Bình, Phạm Hồng Thái, Lương Khánh Thiện...; nhiều cựu học sinh, sinh viên trở thành các cán bộ nòng cốt, nắm giữ các cương vị trọng trách của Đảng, Nhà nước, các Bộ, Ban, Ngành Trung Ương và địa phương.
+Các thế hệ cán bộ, giảng viên và học viên, sinh viên nhà trường luôn tự hào và vinh dự được Bác Hồ 4 lần về thăm trường. Lời căn dặn của Bác là "kim chỉ nam" để các thế hệ cán bộ, giảng viên, học viên, học sinh, sinh viên Nhà trường nỗ lực, phấn đấu, xây dựng Đại học Công nghiệp Hà Nội không ngừng phát triển, trở thành một trong những trường đại học kỹ thuật hàng đầu của Việt Nam, đào tạo theo định hướng công nghệ ứng dụng.
+Bác căn dặn “Các cháu cần ra sức học tập để sau này phục vụ đắc lực công cuộc xây dựng kinh tế nước nhà. Vì trong việc xây dựng kinh tế hiện đang cần nhiều cán bộ kỹ thuật”.
+            1.1.9 Những phần thưởng cao quý
+- Huân chương Hồ Chí Minh năm 2013
+- Đơn vị Anh hùng Lao động thời kỳ đổi mới năm 2008
+- 02 Huân chương Độc lập hạng Nhất năm 1998, 2003
+- 01 Huân chương Độc lập hạng Ba năm 1996
+- 01 Huân chương Chiến công hạng Nhất năm 1998
+- 01 Huân chương Chiến công hạng Ba năm 1988
+- 03 Huân chương Lao động hạng Nhất năm 1986, 1988, 2018
+- 02 Huân chương Lao động hạng Nhì năm 1981, 1984
+- 03 Huân chương Lao động hạng Ba năm 1968, 1978, 2002
+- Huân chương Hữu nghị của nước CHDCND Lào năm 2018
+            1.1.10 Quy mô đào tạo, tỷ lệ sinh viên có việc làm sau tốt nghiệp
+Tổng số sinh viên đang theo học: 32.000 - 34.000 người
+Số sinh viên đại học chính quy đang theo học: 25.447 người
+Số sinh viên sau đại học (cao học, NCS hoặc tương đương) đang theo học: 558 người
+Số sinh viên cao đẳng chính quy đang theo học: 601 người
+Tỷ lệ sinh viên chính quy ra trường có việc làm sau 12 tháng kể từ ngày tốt nghiệp: 92,14%
+Tỷ lệ sinh viên ĐH chính quy ra trường có việc làm sau 12 tháng kể từ ngày tốt nghiệp: 92,78%
+Tỷ lệ sinh viên CĐ chính quy ra trường có việc làm sau 12 tháng kể từ ngày tốt nghiệp: 90,61%
+            1.1.11 Đội ngũ cán bộ giảng viên
+Tổng số cán bộ, giảng viên: 1562 người
+Số cán bộ giảng viên nghiên cứu và giảng dạy: 1111 người
+Số cán bộ giảng viên nghiên cứu và giảng dạy hợp đồng: 155 người
+Số cán bộ, giảng viên có bằng Thạc sĩ: 766 người
+Số cán bộ, giảng viên có bằng Tiến sĩ: 231 người
+Số cán bộ, giảng viên là Phó Giáo sư: 34 người
+            1.1.12 Các cán bộ phụ trách
+                1.1.12.1 PHỤ TRÁCH KHOA : PGS.TS Nguyễn Thị Lệ
+- Lãnh đạo, quản lý toàn diện các mặt công tác của khoa theo chức năng, nhiệm vụ, quyền hạn được giao.
+- Phụ trách tổ chức nhân sự, tài chính, thi đua khen thưởng.
+- Xây dựng chiến lược phát triển khoa.
+- Phụ trách công tác xây dựng và phát triển chương trình đào tạo đại học và sau đại học.
+- Phụ trách công tác đối ngoại, quan hệ với doanh nghiệp, NCKH và chuyển giao công nghệ.
+- Duyệt các thông tin đưa lên trang web của khoa, công tác cố vấn học tập.
+- Sinh hoạt tại bộ môn Công nghệ May
+- Điện thoại : 0989 731 705
+- Email: le.nguyenthi@haui.edu.vn
+                1.1.12.2 PHÓ TRƯỞNG KHOA : TS Lưu Thị Tho
+- Phụ trách công tác nề nếp giảng dạy
+- Phụ trách công tác kế hoạch, công tác đảm bảo chất lượng đào tạo đại học và cao đẳng.
+- Phụ trách công tác thi GV dạy giỏi.
+- Phụ trách công tác sinh viên NCKH.
+- Liên hệ, quản lý các đoàn thực tập, tham quan cho GV, sinh viên với nhà máy, công ty.
+- Chịu trách nhiệm thu thập, biên tập và đưa thông tin lên trang Web của khoa.
+- Phụ trách và sinh hoạt tại bộ môn Công nghệ Vật liệu dệt May
+                1.1.12.3  PHÓ TRƯỞNG KHOA : Th.s Đinh Mai Hương
+- Phụ trách công tác Giáo viên chủ nhiệm
+- Phụ trách công tác sinh viên, các hoạt động phong trào.
+- Phụ trách công tác thực hành tại xưởng trường, quản lý cơ sở vật chất, trang thiết bị trong khoa, công tác 5S
+- Phụ trách công tác thi tay nghề, chứng chỉ nghề nghiệp.
+- Phụ trách và sinh hoạt tại bộ môn Công nghệ May
+                1.1.12.4 BAN CHI ỦY CHI BỘ NHIỆM KỲ 2015 - 2018
+1. Đồng chí Nguyễn Thị Lệ : Bí thư
+2. Đồng chí Đinh Mai Hương : Phó bí thư
+                1.1.12.5 BCH CÔNG ĐOÀN KHOA NHIỆM KỲ 2018- 2022
+1. Cô Nguyễn Thị Kim Hòa – Chủ tịch CĐ
+2. Thầy Nguyễn Phương Việt : Phó chủ tịch CĐ
+3. Cô Đoàn Thị Thu Thủy : Ủy viên
+                1.1.12.6 BCH LCĐ KHOA NHIỆM KỲ 2016-2019
+1. Cô Nguyễn Thị Hiền Nga – Bí thư
+Điện thoại : 0989 456 862
+Email : hiennga207.dhcn@gmail.com
+                1.1.12.7 BỘ MÔN
+1. Bộ môn Công nghệ May
+Trưởng Bộ môn : Th.s Đinh Mai Hương
+- Điện thoại : 0947 537 677
+- Email: huongdinhmai@gmail.com
+2. Bộ môn Thiết kế Thời trang
+Trưởng Bộ môn : Th.s Nguyễn Phương Việt
+- Điện thoại : 0904 176 558
+- Email: nguyenphuongviet@gmail.com
+3. Tổ môn Công nghệ Vật liệu dệt may
+Trưởng bộ môn : T.S Lưu Thị Tho
+Điện Thoại : 0988 278 230
+Email :
+                1.1.12.8 CHUYÊN VIÊN VĂN PHÒNG
+1. Giáo vụ: Th.s Trần Thúy Hằng
+- Điện thoại: 0987 311 969
+- Email: thuyhang6169@gmail.com
+2. Giáo viên chủ nhiệm : Th.s Phạm Thị Duyên Hải
+- Điện thoại : 0977 832 468
+- Email: phamthiduyenhai@gmail.com
+3. Giáo viên chủ nhiệm : Th.s Nguyễn Thị Hiền Nga
+- Điện thoại : 0989 456 862
+- Email : hiennga207.dhcn@gmail.com
+                1.1.12.9 BAN CỐ VẤN HỌC TẬP
+1. PGS.TS Nguyễn Thị Lệ : Trưởng ban
+- Điện thoại : 0989 731 705
+- Email: le.nguyenthi@haui.edu.vn
+2. Th.s Đoàn Thị Thu Thủy
+Phụ trách : CVHT hệ ĐH May- Khóa 13 ; ĐH May khóa 11 ; CĐ 2017-2020 (K19)
+- Điện Thoại : 0963 718 886
+- Email : doanthuy7575@gmail.com
+4. Th.s Nguyễn Thị Mai Hoa
+Phụ trách : CVHT ĐH May - K12 ; CĐ 2018-2021 (CĐ K20)
+- Điện Thoại : 0912 015 690
+- Email : maihoanguyen@gmail.com
+5. Th.s Đỗ Thị Thủy
+Phụ trách : CVHT ĐH May- Khóa 10 ; CĐ May - K18
+- Điện Thoại : 098 9845 299
+- Email : dothuyhd2011@gmail.com
+6. Th.s Vũ Thu Huyền
+Phụ trách : Cố vấn HT : ĐHTK- K10 ; ĐHTK-K11, ĐHTK-K12; ĐHTK 13
+- Điện Thoại : 0947 781 466
+- Email :huyenvu28893@gmail.com
+            1.1.13 Các cán bộ chính
+Hiệu trưởng
+TS.Kiều Xuân Thực
+Email: thuckx@haui.edu.vn
+Phó Hiệu trưởng
+TS.Nguyễn Văn Thiện
+Email: nguyenvanthien@haui.edu.vn
+Phó Hiệu trưởng
+TS.Nguyễn Văn Thiện
+Email: nvthiencntt@haui.edu.vn
+Phó Hiệu trưởng
+PGS.TS.Phạm Văn Đông
+Email: phamvandong@haui.edu.vn
+            1.1.14 Các tổ chức, đoàn thể
+                1.1.14.1 Giới thiệu công đoàn trường
+Công đoàn Trường Đại học Công nghiệp Hà Nội được thành lập năm 1999 theo quyết định của Công đoàn Công nghiệp Việt Nam (Nay là Công đoàn Công Thương Việt Nam). Trong những năm qua, Công đoàn Nhà trường đã thực hiện tốt vai trò, chức năng, nhiệm vụ, quyền hạn của mình, là chỗ dựa tin cậy của công chức, viên chức và người lao động, đồng thời là cầu nối giữa Đảng, Chính quyền và công chức, viên chức,người lao động.
+* Chủ tịch: Đ/c Phạm Văn Đông.
+* Phó Chủ tịch: Đ/c Đỗ Huyền Cư.
+* Phó Chủ tịch: Đ/c Nguyễn Hoàng Dương
+Hiện nay Công đoàn Nhà trường có 33 công đoàn bộ phận. Trong những năm qua, Công đoàn trường đã thực hiện chức năng, nhiệm vụ của mình như: chăm lo đời sống, đại diện bảo vệ quyền và lợi ích hợp pháp, chính đáng cho người lao động…
+Để đảm bảo tính hiệu quả trong hoạt động và phát huy năng lực và vai trò chủ động của cán bộ công đoàn, Công đoàn Trường đã xây dựng và ban hành các Quy chế hoạt động nhiệm kỳ, Quy chế phối hợp giữa Công đoàn và Chính quyền, phân công nhiệm vụ cho từng ủy viên Ban chấp hành đồng thời thể hiện tính công khai, minh bạch trong việc sử dụng nguồn tài chính của Công đoàn bằng cách xây dựng Quy định về thu, chi, quản lý tài chính CĐ. Ngoài ra, Công đoàn cũng thường xuyên tổ chức tổ chức các hoạt động phong trào thiết thực, bổ ích, thu hút được số lượng đông đảo đoàn viên công đoàn tham gia như Hội diễn NTQC, các giải thể thao (bóng đá, cầu lông, bóng chuyền, ten nít), các cuộc thi tìm hiểu, tập huấn, học tập truyền thống lịch sử, … Công đoàn trường cũng rất chú trọng đến công tác xã hội từ thiện. Ngoài việc vận động đoàn viên tham gia đóng góp cho Quỹ học bổng của nhà trường, giúp đỡ các đoàn viên có hoàn cảnh khó khăn trong trường, công đoàn trường còn tích cực tham gia các hoạt động xã hội từ thiện của ngành Công thương và địa phương.
+Tính hiệu quả của các hoạt động cũng đã được công đoàn cấp trên công nhận và đánh giá cao thông qua các danh hiệu xuất sắc, Bằng khen, Cờ thi đua trong nhiều năm: Bằng khen, Cờ thi đua của Công đoàn Công thương Việt Nam và Tổng liên đoàn lao động Việt Nam, Cờ thi đua của Thủ tướng Chính phủ.
+Văn phòng Công đoàn trường:
+- Địa chỉ: Tầng 3, nhà A1, cơ sở 1.
+Giới thiệu Đoàn Thanh niên
+Đoàn TNCS Hồ Chí Minh trường Đại học Công nghiệp Hà Nội được thành lập và hoạt động gắn với lịch sử phát triển của nhà trường. Năm 1997, cùng với sự sáp nhập của trường Công nhân kỹ thuật 1 và Kỹ nghệ thực hành Hà Nội thành trường Trung học Công nghiệp I, tổ chức Đoàn của nhà trường cũng có sự sáp nhập cho phù hợp tình hình thực tế tại đơn vị. Trong thời gian này, tổ chức Đoàn của nhà trường sinh hoạt Đoàn và hoạt động với tư cách là một đơn vị trực thuộc Huyện đoàn Từ Liêm.
+Năm 1999, Thủ tướng Chính phủ ban hành Quyết định 126/QĐ – TTg thành lập trường Cao đẳng Công nghiệp Hà Nội trên cơ sở trường Trung học Công nghiệp I, bắt đầu từ đây, Đoàn Thanh niên nhà trường chính thức được Thành đoàn Hà Nội nâng cấp trở thành cơ sở Đoàn tương đương cấp huyện trực thuộc Thành đoàn Hà Nội. Từ đó tới nay, trải qua 15 năm kể từ khi trở thành một cơ sở Đoàn trực thuộc Thành đoàn Hà Nội, Đoàn trường ngày càng có những bước phát triển mạnh mẽ, là một trong những cơ sở Đoàn lớn, mạnh trong công tác Đoàn và phong trào thanh niên khối trường học toàn Thành phố.
+Thành tích nổi bật
+- 01 Bằng khen của Thủ tướng Chính phủ.
+- 01 Cờ thi đua của Trung ương Đoàn TNCS Hồ Chí Minh.
+- Nhiều Bằng khen của Trung ương Đoàn TNCS Hồ Chí Minh.
+- 06 Cờ thi đua của Thành đoàn Hà Nội.
+Cơ cấu tổ chức
+Đoàn TNCS Hồ Chí Minh trường Đại học Công nghiệp Hà Nội là cơ sở Đoàn trực thuộc Thành đoàn Hà Nội, dưới sự quản lý, lãnh đạo trực tiếp của Đảng ủy – Ban Giám hiệu nhà trường. Ban Chấp hành Đoàn trường có 29 đồng chí, Ban Thường vụ Đoàn trường có 9 đồng chí, Thường trực Đoàn trường có Bí thư và 02 Phó Bí thư.
+Đoàn trường đang quản lý 15 đơn vị Đoàn trực thuộc với hơn 28.000 đoàn viên thanh niên đang học tập và sinh hoạt tại 03 cơ sở đào tạo của nhà trường.
+            1.1.15 Liên hệ
+Trường Đại Học Công Nghiệp Hà Nội
+Trụ sở chính: Số 298 đường Cầu Diễn, quận Bắc Từ Liêm, thành phố Hà Nội.
+Cơ sở 2: Phường Tây Tựu, quận Bắc Từ Liêm, thành phố Hà Nội.
+Cơ sở 3: Phường Lê Hồng Phong , xã Phù Vân, thành phố Phủ Lý, tỉnh Hà Nam.
+Điện thoại: 84-24 37655 121.
+Fax: 84-24 37655 261.
+Website: https://www.haui.edu.vn
+Email: dhcnhn@haui.edu.vn
+    CHƯƠNG 2: Đào tạo
+        2.1. Giới thiệu các chương trình đào tạo
+            2.1.1 Chương trình đào tạo sau đại học
+Đại học Công nghiệp Hà Nội hướng đến phát triển thành một đại học đa lĩnh vực với nòng cốt là kỹ thuật và công nghệ, trong đó một số đơn vị chuyên môn được tổ chức thành trường, viện, trung tâm nghiên cứu, doanh nghiệp trực thuộc. Nhà trường xây dựng mô hình đại học đào tạo, nghiên cứu nhiều ngành, nhiều loại hình, nhiều cấp trình độ; cung cấp nguồn nhân lực chất lượng cao cho thị trường lao động trong nước và nước ngoài. Đổi mới quản trị đại học, hướng tới xây dựng mô hình đại học thông minh.
+100% các chương trình đào tạo của Nhà trường được xây dựng mới theo chuẩn quốc tế CDIO, nhằm trang bị kiến thức, kỹ năng phổ rộng cơ bản với tư duy sáng tạo, khả năng tự học để người tốt nghiệp có thể thích nghi với các yêu cầu công việc mang tính liên ngành và thường xuyên thay đổi trong thực tế.
+Bên cạnh đó, Đại học Công nghiệp Hà Nội tiếp tục đổi mới các chương trình đào tạo theo tiêu chuẩn quốc tế hướng tới kiểm định chương trình theo chuẩn ABET - Hoa Kỳ. Mỗi năm mở ngành mới đáp ứng nhu cầu xã hội.
+Hiện tại, Nhà trường cung cấp 05 chương trình đào tạo trình độ Tiến sĩ và 13 chương trình đào tạo trình độ Thạc sĩ, cụ thể như sau:
+                2.1.1.1 Trình độ tiến sĩ
+1. Kế toán
+2. Kỹ thuật cơ khí
+3. Kỹ thuật hoá học
+4. Kỹ thuật cơ khí động lực
+5. Kỹ thuật điện
+                2.1.1.2 Trình độ thạc sĩ
+1. Kỹ thuật điện
+2. Ngôn ngữ Anh
+3. Quản trị kinh doanh
+4. Kế toán
+5. Hệ thống thông tin
+6. Kỹ thuật cơ khí
+7. Kỹ thuật cơ điện tử
+8. Kỹ thuật cơ khí động lực
+9. Kỹ thuật điện tử
+10. Kỹ thuật hoá học
+11. Công nghệ dệt, may
+12. Ngôn ngữ Trung Quốc
+13. Quản trị dịch vụ du lịch và lữ hành
+            2.1.2 Chương trình đào tạo hệ đại học chính quy
+Đại học Công nghiệp Hà Nội hướng đến phát triển thành một đại học đa lĩnh vực với nòng cốt là kỹ thuật và công nghệ, trong đó một số đơn vị chuyên môn được tổ chức thành trường, viện, trung tâm nghiên cứu, doanh nghiệp trực thuộc. Nhà trường xây dựng mô hình đại học đào tạo, nghiên cứu nhiều ngành, nhiều loại hình, nhiều cấp trình độ; cung cấp nguồn nhân lực chất lượng cao cho thị trường lao động trong nước và nước ngoài. Đổi mới quản trị đại học, hướng tới xây dựng mô hình đại học thông minh.
+100% các chương trình đào tạo của Nhà trường được xây dựng mới theo chuẩn quốc tế CDIO, nhằm trang bị kiến thức, kỹ năng phổ rộng cơ bản với tư duy sáng tạo, khả năng tự học để người tốt nghiệp có thể thích nghi với các yêu cầu công việc mang tính liên ngành và thường xuyên thay đổi trong thực tế.
+Bên cạnh đó, Đại học Công nghiệp Hà Nội tiếp tục đổi mới các chương trình đào tạo theo tiêu chuẩn quốc tế hướng tới kiểm định chương trình theo chuẩn ABET - Hoa Kỳ. Mỗi năm mở ngành mới đáp ứng nhu cầu xã hội.
+Hiện tại, Nhà trường cung cấp hơn 50 chương trình đào tạo hệ đại học chính quy, cụ thể như sau:
+1. Thiết kế thời trang
+2. Ngôn ngữ Trung Quốc (Chương trình liên kết đào tạo 2+2)
+3. Ngôn ngữ Anh
+4. Ngôn ngữ Trung Quốc
+5. Ngôn ngữ Nhật
+6. Ngôn ngữ Hàn Quốc
+7. Ngôn ngữ học
+8. Kinh tế đầu tư
+9. Trung Quốc học
+10. Công nghệ đa phương tiện
+11. Quản trị kinh doanh
+12. Marketing
+13. Phân tích dữ liệu kinh doanh
+14. Tài chính – Ngân hàng
+15. Kế toán
+16. Kiểm toán
+17. Quản trị nhân lực
+18. Quản trị văn phòng
+19. Khoa học máy tính
+20. Mạng máy tính và truyền thông dữ liệu
+21. Kỹ thuật phần mềm
+22. Hệ thống thông tin
+23. Công nghệ kỹ thuật máy tính
+24. Công nghệ thông tin
+25. Công nghệ kỹ thuật cơ khí
+26. Công nghệ kỹ thuật cơ điện tử
+27. Công nghệ kỹ thuật ô tô
+28. Công nghệ kỹ thuật nhiệt
+29. Robot và trí tuệ nhân tạo
+30. Công nghệ kỹ thuật điện, điện tử
+31. Năng lượng tái tạo
+32. Công nghệ kỹ thuật điện tử - Viễn thông
+33. Công nghệ kỹ thuật điện tử y sinh
+34. Công nghệ kỹ thuật điều khiển và TĐH
+35. Kỹ thuật sản xuất thông minh
+36. Công nghệ kỹ thuật hoá học
+37. Công nghệ kỹ thuật môi trường
+38. Logistics và quản lý chuỗi cung ứng
+39. Công nghệ kỹ thuật khuôn mẫu
+40. Thiết kế cơ khí và kiểu dáng công nghiệp
+41. Công nghệ kỹ thuật cơ điện tử ô tô
+42. Kỹ thuật hệ thống công nghiệp
+43. Kỹ thuật cơ khí động lực
+44. Công nghệ thực phẩm
+45. Công nghệ vật liệu dệt, may
+46. Công nghệ dệt, may
+47. Hóa dược
+48. Du lịch
+49. Quản trị dịch vụ du lịch và lữ hành
+50. Quản trị khách sạn
+51. Quản trị nhà hàng và dịch vụ ăn uống
+52. An toàn thông tin
+        2.2. Quy chế đào tạo
+QUY CHẾ ĐÀO TẠO TRÌNH ĐỘ ĐẠI HỌC
+TẠI TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP HÀ NỘI
+(Hợp nhất quy chế đào tạo ban hành theo quyết định 744/QĐ-ĐHCN ngày 19 tháng 08 năm 2021 và quyết định sửa đổi một số điều của quy chế 744 ban hành theo Quyết định 666/QĐ-ĐHCN ngày 01 tháng 06 năm 2023)
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+Quy chế này quy định chung về tổ chức và quản lý đào tạo trình độ đại học, bao gồm: Chương trình đào tạo và thời gian học tập; hình thức và phương thức tổ chức đào tạo; lập kế hoạch và tổ chức giảng dạy; đánh giá kết quả học tập và cấp bằng tốt nghiệp; những quy định khác đối với sinh viên.
+Quy chế này áp dụng đối với các Khoa, Trung tâm, Trường (sau đây gọi chung là Khoa) thuộc, trực thuộc Trường Đại học Công nghiệp Hà Nội (sau đây gọi là Trường hoặc Nhà trường) có nhiệm vụ đào tạo trình độ đại học, các tổ chức, cá nhân liên quan trong đào tạo theo hình thức chính quy và hình thức vừa làm vừa học. Các chương trình đào tạo do cơ sở giáo dục nước ngoài cấp bằng bao gồm cả các chương trình liên kết đào tạo được áp dụng quy chế này hoặc quy định của cơ sở đào tạo cấp bằng theo thỏa thuận liên kết, hợp tác giữa các bên nhưng không trái với những quy định của quy chế này.
+Quy chế này là căn cứ để Hiệu trưởng Nhà trường (sau đây gọi Hiệu trưởng) xây dựng và ban hành các văn bản quy định, hướng dẫn cụ thể về tổ chức và quản lý đào tạo trình độ đại học và cả trình độ đào tạo đối với một số ngành đào tạo chuyên sâu đặc thù quy định tại điểm a khoản 1 Điều 14 Nghị định số 99/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học.
+Điều 2. Chương trình đào tạo và thời gian học tập
+Chương trình đào tạo được xây dựng theo đơn vị tín chỉ, cấu trúc từ các môn học hoặc học phần (sau đây gọi chung là học phần), trong đó phải có đủ các học phần bắt buộc và đáp ứng chuẩn chương trình đào tạo theo quy định hiện hành của Nhà trường và của Bộ Giáo dục và Đào tạo. Trong trường hợp đào tạo song ngành hoặc ngành chính - ngành phụ, chương trình đào tạo phải thể hiện rõ khối lượng học tập chung và riêng theo từng ngành.
+Nội dung, chuẩn đầu ra của chương trình đào tạo áp dụng chung đối với các hình thức, phương thức tổ chức đào tạo và đối tượng người học khác nhau.
+Đối với người đã tốt nghiệp trình độ khác hoặc ngành khác, khối lượng học tập thực tế được xác định trên cơ sở công nhận, hoặc chuyển đổi tín chỉ đã tích lũy và miễn trừ học phần trong chương trình đào tạo trước.
+
+Chương trình đào tạo phải được công khai đối với người học trước khi tuyển sinh và khi bắt đầu khóa học; những thay đổi, điều chỉnh liên quan đến chương trình đào tạo được thực hiện theo quy định hiện hành và công bố trước khi áp dụng, không gây tác động bất lợi cho sinh viên.
+Đối với mỗi hình thức đào tạo, chương trình đào tạo cần cung cấp kế hoạch học tập chuẩn toàn khoá để định hướng cho sinh viên:
+Thời gian theo kế hoạch học tập chuẩn toàn khoá đối với hình thức đào tạo chính quy phải phù hợp với thời gian quy định trong Khung cơ cấu hệ thống giáo dục quốc dân, đồng thời đảm bảo đa số sinh viên hoàn thành chương trình đào tạo;
+Thời gian theo kế hoạch học tập chuẩn toàn khoá đối với hình thức đào tạo vừa làm vừa học dài hơn tối thiểu 20% so với hình thức đào tạo chính quy của cùng chương trình đào tạo.
+Thời gian tối đa để sinh viên hoàn thành khoá học được quy định như sau: 
+Sinh viên tuyển sinh, đào tạo trước ngày 3 tháng 5 năm 2021, thời gian tối đa để hoàn thành khóa học bằng 02 lần thời gian theo kế hoạch học tập chuẩn toàn khoá đối với mỗi hình thức đào tạo; không hạn chế thời gian tối đa hoàn thành khóa học đối với sinh viên thuộc diện được hưởng chính sách ưu tiên theo quy định tại Quy chế tuyển sinh đại học chính quy;
+Sinh viên tuyển sinh, đào tạo từ ngày 3 tháng 5 năm 2021 trở đi, thời gian tối đa để hoàn thành khóa học không vượt quá 06 năm tính từ ngày nhập học; sinh viên được Nhà trường cử đi trao đổi, thực tập ở nước ngoài thời gian tối đa để hoàn thành khóa học do Hiệu trưởng quyết định nhưng không vượt quá 02 lần thời gian theo kế hoạch học tập chuẩn toàn khoá;
+Sinh viên học liên thông đã được miễn trừ khối lượng tín chỉ tích lũy, thời gian tối đa để sinh viên hoàn thành khóa học được xác định trên cơ sở thời gian theo kế hoạch học tập chuẩn toàn khoá giảm tương ứng với khối lượng được miễn trừ;
+Không tính vào thời gian hoàn thành khóa học đối với những trường hợp khi đang trong thời gian: bị ốm, thai sản hoặc tai nạn phải điều trị được cơ quan có thẩm quyền theo quy định của Bộ Y tế xác nhận; được điều động vào lực lượng vũ trang theo quy định của Nhà nước; được cơ quan có thẩm quyền điều động,
+đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế.
+Điều 3. Phương thức tổ chức đào tạo
+Đào tạo theo tín chỉ:
+Là phương thức tổ chức đào tạo theo từng lớp học phần, cho phép sinh viên tích lũy tín chỉ của từng học phần và thực hiện chương trình đào tạo theo kế hoạch học tập của cá nhân, phù hợp với kế hoạch giảng dạy của Nhà trường;
+Sinh viên không đạt một học phần bắt buộc sẽ phải học lại học phần đó hoặc học một học phần tương đương theo quy định trong chương trình đào tạo, hoặc học một học phần thay thế nếu học phần đó không còn được giảng dạy;
+Sinh viên không đạt một học phần tự chọn sẽ phải học lại học phần đó hoặc có thể chọn học một học phần tự chọn khác trong cùng nhóm tự chọn hoặc đăng ký học phần tương đương, học phần thay thế theo quy định trong chương trình đào tạo.
+Nhà trường áp dụng phương thức đào tạo theo tín chỉ cho tất cả các khóa và hình thức đào tạo.
+Điều 4. Hình thức đào tạo
+Đào tạo chính quy:
+Các hoạt động giảng dạy được thực hiện tại các cơ sở đào tạo của Nhà trường, riêng những hoạt động thực hành, thực tập, trải nghiệm thực tế và giảng dạy trực tuyến có thể thực hiện ngoài cơ sở đào tạo của Nhà trường;
+Thời gian tổ chức hoạt động giảng dạy trong khoảng từ 07 giờ đến 21 giờ các ngày trong tuần từ thứ hai đến thứ bảy; thời gian tổ chức những hoạt động đặc thù của chương trình đào tạo (thực hành, thực tập, trực tuyến, ngoại khóa, lớp mở theo yêu cầu của người học, …) được thực hiện theo quy định của Nhà trường.
+Đào tạo vừa làm vừa học:
+Các hoạt động giảng dạy được thực hiện tại Nhà trường hoặc tại cơ sở phối hợp đào tạo theo quy định liên kết đào tạo tại Điều 5 của Quy chế này, riêng những hoạt động thực hành, thực tập, trải nghiệm thực tế và giảng dạy trực tuyến có thể thực hiện ngoài Nhà trường, cơ sở phối hợp đào tạo;
+Thời gian tổ chức hoạt động giảng dạy linh hoạt trong ngày và trong tuần.
+Đối với các ngành đào tạo ưu tiên phục vụ nguồn nhân lực phát triển kinh tế - xã hội trong từng giai đoạn, Nhà trường có thể thực hiện các hình thức đào tạo phù hợp theo hướng dẫn của Bộ Giáo dục và Đào tạo.
+Điều 5. Liên kết đào tạo
+Liên kết đào tạo chỉ thực hiện đối với hình thức vừa làm vừa học theo quy định tại khoản 22 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Giáo dục đại học và theo quy định tại khoản 2, khoản 3 Điều này.
+Các yêu cầu tối thiểu đối với cơ sở chủ trì đào tạo:
+Đã được công nhận đạt tiêu chuẩn chất lượng cơ sở giáo dục đại học bởi tổ chức kiểm định chất lượng giáo dục hợp pháp và còn hiệu lực theo quy định;
+Chương trình đào tạo dự kiến liên kết đào tạo đã được tổ chức thực hiện tối thiểu 03 khoá liên tục theo hình thức chính quy; từ khóa tuyển sinh năm 2024 yêu cầu chương trình đào tạo đã được công nhận đạt chuẩn chất lượng theo quy định hiện hành;
+Bảo đảm đội ngũ giảng viên cơ hữu giảng dạy tối thiểu 70% nội dung, khối lượng chương trình đào tạo;
+Đã ban hành quy định về liên kết và đã thẩm định các điều kiện bảo đảm chất lượng của cơ sở phối hợp đào tạo.
+Các yêu cầu tối thiểu của cơ sở phối hợp đào tạo:
+Đáp ứng các yêu cầu về môi trường sư phạm, cơ sở vật chất, thiết bị, thư viện và cán bộ quản lý theo yêu cầu của chương trình đào tạo;
+Đã có báo cáo tự đánh giá chất lượng cơ sở giáo dục gửi về cơ quan nhà nước có thẩm quyền theo quy định; từ khóa tuyển sinh năm 2024 yêu cầu đã được công nhận đạt tiêu chuẩn chất lượng cơ sở giáo dục theo quy định hiện hành;
+Cơ sở phối hợp đào tạo chỉ được tham gia giảng dạy tối đa 30% nội dung chương trình đào tạo nếu Khoa được Cơ sở chủ trì đào tạo giao quản lý chương trình đào tạo có yêu cầu, đồng thời phải bố trí cho giảng viên tham gia giảng dạy sinh hoạt chuyên môn với các Khoa được giao quản lý học phần của Cơ sở chủ trì đào tạo.
+Trách nhiệm của các bên tham gia liên kết đào tạo:
+Cơ sở chủ trì đào tạo và cơ sở phối hợp đào tạo chịu trách nhiệm ký kết hợp đồng liên kết đào tạo, thỏa thuận cụ thể về quyền và trách nhiệm của các bên trong việc phối hợp tổ chức thực hiện, quản lý quá trình dạy học bảo đảm chất lượng đào tạo và thực hiện nội dung đã thỏa thuận phù hợp với các quy định của Quy chế này và các quy định pháp luật khác có liên quan;
+Cơ sở chủ trì đào tạo chịu trách nhiệm quản lý chất lượng đào tạo; báo cáo hoạt động liên kết đào tạo với Ủy ban nhân dân cấp tỉnh nơi liên kết đào tạo trước khi tổ chức tuyển sinh; nếu cơ sở phối hợp đào tạo không đáp ứng được các yêu cầu về bảo đảm chất lượng theo quy định của học phần hoặc của chương trình
+đào tạo thì phải chuyển sinh viên về cơ sở chủ trì liên kết để tiếp tục đào tạo theo quy định và bảo đảm quyền lợi cho sinh viên;
+Cơ sở phối hợp đào tạo có trách nhiệm cùng cơ sở chủ trì đào tạo bảo đảm đủ điều kiện cơ sở vật chất thực hiện đào tạo; tham gia quản lý, giảng dạy, theo thoả thuận giữa hai bên;
+Cơ sở chủ trì đào tạo, cơ sở phối hợp đào tạo chịu trách nhiệm trước pháp luật về việc thực hiện hợp đồng liên kết đào tạo; thực hiện các quy chế về tuyển sinh, đào tạo; bảo đảm quyền lợi chính đáng cho giảng viên, sinh viên trong suốt quá trình thực hiện hoạt động đào tạo.
+Quy định về điều kiện, quy trình thực hiện liên kết đào tạo của Nhà trường:
+Nhà trường chỉ chủ trì liên kết đào tạo theo hình thức vừa làm vừa học với cơ sở giáo dục đáp ứng yêu cầu tối thiểu ở khoản 3 điều này;
+Chỉ tiêu tuyển sinh dành cho các chương trình liên kết đào tạo nằm trong tổng chỉ tiêu tuyển sinh vừa làm vừa học hàng năm của Nhà trường;
+Trung tâm Đào tạo thường xuyên trình Hiệu trưởng hồ sơ đăng ký thực hiện liên kết đào tạo gồm có: Đề xuất thực hiện liên kết đào tạo; Hồ sơ minh chứng việc đáp ứng yêu cầu tối thiểu ở khoản 2, khoản 3 điều này; Danh sách giảng viên cơ hữu tham gia giảng dạy và cán bộ quản lý; Danh sách giảng viên tham gia giảng dạy (nếu có), danh mục cơ sở vật chất tại cơ sở phối hợp đào tạo để xem xét thẩm định các điều kiện đảm bảo chất lượng đào tạo;
+Trong vòng 30 ngày kể từ ngày nhận Hồ sơ đăng ký thực hiện liên kết đào tạo, Hiệu trưởng ra quyết định thành lập Tổ thẩm định các điều kiện đảm bảo chất lượng đào tạo của cơ sở phối hợp đào tạo. Tổ thẩm định gồm 3 đến 5 thành viên, gồm đại diện của Phòng Đào tạo; Khoa quản lý Chương trình đào tạo; Trung tâm Đào tạo thường xuyên và các đơn vị liên quan khác;
+Tổ thẩm định tiến hành thẩm định các điều kiện đảm bảo chất lượng đào tạo tại cơ sở phối hợp đào tạo theo quy định tại khoản 3 Điều này và lập biên bản thẩm định trình Hiệu trưởng ra quyết định thực hiện liên kết đào tạo;
+Hiệu trưởng quyết định cho phép thực hiện liên kết đào tạo khi đủ các điều kiện quy định tại các khoản 1, 2, 3, 4, 5 Điều này.
+Điều 6. Kế hoạch giảng dạy và học tập
+ Kế hoạch giảng dạy và học tập (còn được gọi là Kế hoạch dạy học) chi tiết hóa việc tổ chức thực hiện các chương trình đào tạo theo năm học, học kỳ, phù hợp với hình thức đào tạo và phương thức tổ chức đào tạo.
+Trước khi bắt đầu mỗi năm học, Nhà trường công bố kế hoạch năm học thể hiện những mốc thời gian chính của các hoạt động đào tạo trong năm học cho tất cả các hình thức, chương trình đào tạo. Một năm học có 02 học kỳ chính, mỗi học kỳ chính có từ 14 đến 16 tuần lên lớp và 02 tuần thi. Ngoài học kỳ chính, mỗi năm học Nhà trường có thể tổ chức thêm từ 01 đến 02 học kỳ phụ, mỗi học kỳ phụ có từ 05 đến 08 tuần lên lớp và 01 tuần thi. Học kỳ phụ để tạo điều kiện cho sinh viên được học lại, học cải thiện điểm, học bù hoặc học vượt.
+Kế hoạch học kỳ bao gồm: kế hoạch đăng ký khối lượng học tập, thời khóa biểu, hình thức dạy-học (trực tiếp, trực tuyến hoặc kết hợp trực tiếp và trực tuyến theo quy định tại Hướng dẫn tổ chức dạy học của học phần), thời gian học, thời gian thi kết thúc học phần của các lớp học phần dự kiến mở trong học kỳ cho các khoá học, chương trình đào tạo, hình thức dạy-học do Hiệu trưởng quyết định. Kế hoạch học kỳ được công bố trước thời điểm đăng ký học tập từ 01 đến 03 tuần để thuận tiện cho sinh viên xây dựng kế hoạch học tập và đăng ký học tập..1
+Thời khoá biểu thể hiện thời gian, địa điểm, hoạt động dạy và học của từng lớp thuộc các khoá học, hình thức và chương trình đào tạo. Thời khóa biểu của các lớp học phần bình thường được bố trí đều trong các tuần của học kỳ. Trong trường hợp cần thiết phải xếp lịch học tập trung thời gian, số giờ giảng lý thuyết của một học phần không vượt quá 15 giờ/tuần và 4 giờ/ngày; số giờ thực hiện những hoạt động đặc thù của chương trình đào tạo (thực hành, thực tập, trực tuyến, ngoại khóa, lớp mở theo yêu cầu của người học, …) được thực hiện theo quy định của Nhà trường.
+Phòng Đào tạo dự kiến số lượng lớp học phần cho mỗi học phần, thời khóa biểu cho các lớp học phần trong từng học kỳ gửi các Khoa quản lý học phần để thống nhất kế hoạch và phân công giảng viên giảng dạy trên Hệ thống quản lý đào tạo trước khi tổ chức cho sinh viên đăng ký học tập.
+Điều 7. Tổ chức đăng ký học tập
+Trước khi bắt đầu đợt đăng ký học tập ở mỗi học kỳ, các Khoa quản lý sinh viên hướng dẫn cho sinh viên đăng ký học tập trên Hệ thống quản lý đào tạo của Nhà trường.
+Sinh viên phải đăng ký lớp của các học phần dự định sẽ học trong học kỳ, gồm: những học phần mới, một số học phần chưa đạt (để học lại) và một số học phần đã đạt (để cải thiện điểm, nếu có) căn cứ danh sách học phần được mở và điều kiện đăng ký của mỗi học phần.
+Trong mỗi học kỳ có hai đợt đăng ký: Đợt đăng ký chính và đợt đăng ký bổ sung.
+ Đợt đăng ký chính được thực hiện trước thời điểm bắt đầu học kỳ từ 03 đến 04 tuần cho tất cả sinh viên muốn đăng ký hoặc hủy đăng ký vào các lớp học phần được tổ chức trong học kỳ. Tại một thời điểm bất kỳ trong đợt đăng ký chính, sinh viên được phép đăng ký tối đa 33 tín chỉ nhưng trước khi kết thúc đợt đăng ký chính sinh viên phải điều chỉnh để khối lượng học tập phù hợp quy định tại khoản 5 Điều này; Trường hợp số tín chỉ đăng ký vượt quá khối lượng học tập quy định tại khoản 5 Điều này nếu sinh viên không điều chỉnh, hệ thống sẽ tự động rút ngẫu nhiên các học phần để khối lượng học tập của sinh viên phù hợp quy định;
+
+Đợt đăng ký bổ sung được thực hiện trước thời điểm bắt đầu học kỳ từ 01 đến 02 tuần cho những sinh viên muốn đăng ký bổ sung vào các lớp học phần đã được Nhà trường thông báo mở;
+Trong thời gian đăng ký học tập, sinh viên chỉ được phép đăng ký tối đa vào 01 lớp học phần được tổ chức cho mỗi học phần;
+Ngoài thời gian trên, nếu có sinh viên chuyển trường, chuyển ngành/chương trình đào tạo, học tiếp sau thời gian nghỉ học tạm thời muốn đăng ký bổ sung vào các lớp học phần đã mở hoặc sinh viên có nguyện vọng học đổi từ học phần đã đăng ký thành công sang học phần khác thì Khoa quản lý sinh viên lập danh sách theo mẫu và gửi về Phòng Đào tạo tổng hợp, báo cáo Hiệu trưởng quyết định.
+Hai học kỳ đầu tiên của năm thứ nhất sinh viên được Nhà trường sắp xếp học theo tiến độ đào tạo chuẩn. Từ học kỳ thứ 3 trở đi sinh viên được tư vấn để tự chọn và tự đăng ký khối lượng học tập.
+Khối lượng học tập mà mỗi sinh viên phải đăng ký trong mỗi học kỳ chính không tính các học phần ngoài khung chương trình đào tạo, các học phần Giáo dục thể chất, Giáo dục quốc phòng-an ninh, được quy định như sau:
+Khối lượng học tập tối thiểu 10 tín chỉ cho mỗi học kỳ; không quy định khối lượng học tập tối thiểu nếu sinh viên còn nợ khối lượng học tập dưới mức tối thiểu hoặc trong học kỳ không có lớp học phần để sinh viên đăng ký đủ khối lượng học tập tối thiểu quy định ở trên;
+Khối lượng học tập tối đa 27 tín chỉ cho mỗi học kỳ;
+Các trường hợp đặc biệt do Hiệu trưởng quyết định
+Việc đăng ký các học phần sẽ học cho từng học kỳ phải bảo đảm điều kiện tiên quyết của từng học phần và trình tự học tập của mỗi chương trình cụ thể.
+Phòng Đào tạo tổ chức cho sinh viên đăng ký khối lượng học tập ở mỗi học kỳ. Dữ liệu đăng ký học tập của sinh viên được lưu trữ trên Hệ thống quản lý đào tạo của Nhà trường, bao gồm các thông tin tối thiểu như: thời gian đăng ký, mã lớp học phần đã đăng ký hoặc hủy đăng ký, số tín chỉ của học phần, học kỳ mở lớp, tài khoản thực hiện đăng ký. Sinh viên đăng ký thành công vào lớp học phần được thành lập phải đóng học phí theo quy định.
+Những sinh viên đăng ký không đủ khối lượng học tập tối thiểu ở học kỳ chính nào sẽ được Trưởng khoa xem xét và đề xuất Hiệu trưởng quyết định cho học tiếp hoặc tạm dừng học ở học kỳ đó. Việc cho học tiếp hay tạm dừng học đối với sinh viên không đủ khối lượng học tập tối thiểu ở học kỳ phải được thông báo đến sinh viên trong tuần đầu tiên của học kỳ.
+Sau khi đăng ký thành công vào lớp học phần, sinh viên không đi học được coi là tự ý bỏ học, phải nhận điểm F là điểm học phần và phải đóng học phí theo quy định.
+Rút bớt khỏi lớp học phần đã đăng ký.
+Từ tuần thứ 03 đến hết tuần thứ 08 của học kỳ chính hoặc từ tuần thứ 02 đến hết tuần thứ 04 của học kỳ phụ, sinh viên không vi phạm điểm a khoản 5 Điều này được phép rút khỏi lớp học phần đã đăng ký trên Hệ thống quản lý đào tạo của Nhà trường nhưng vẫn phải đóng học phí. Trường hợp đặc biệt do Hiệu trưởng quyết định.2
+Điều 8. Tổ chức giảng dạy và học tập
+Yêu cầu về tổ chức giảng dạy và học tập:
+Phát huy năng lực chuyên môn và trách nhiệm nghề nghiệp của đội ngũ giảng viên, phù hợp với quy định về chế độ làm việc của giảng viên;
+Phát huy vai trò chủ động đồng thời đề cao trách nhiệm của sinh viên, tạo điều kiện và động lực để sinh viên nỗ lực học tập; giữ vững kỷ cương học đường, nâng cao chất lượng và hiệu quả đào tạo;
+Có cơ chế thanh tra, giám sát nội bộ và có hệ thống cải tiến chất lượng dựa trên thu thập, đánh giá ý kiến phản hồi của người học.
+Dạy và học trực tuyến:
+Nhà trường tổ chức các lớp học phương thức trực tuyến hoặc kết hợp
+
+trực tiếp với trực tuyến khi đáp ứng các quy định hiện hành về ứng dụng công nghệ thông tin trong quản lý và tổ chức đào tạo qua mạng; có các giải pháp bảo đảm chất lượng và minh chứng về chất lượng tổ chức lớp học phương thức trực tuyến không thấp hơn chất lượng lớp học phương thức trực tiếp;
+Đối với đào tạo theo hình thức chính quy và vừa làm vừa học, tối đa 30% tổng khối lượng của chương trình đào tạo được thực hiện bằng phương thức trực tuyến. Trong trường hợp thiên tai, dịch bệnh phức tạp và các trường hợp bất khả kháng khác, Nhà trường thực hiện theo hướng dẫn của Bộ Giáo dục và Đào tạo.
+Tổ chức lớp học:
+Lớp học phần được tổ chức cho từng học phần. Trước khi tổ chức cho sinh viên đăng ký học tập mỗi lớp học phần phải có tối thiểu các thông tin về: mã lớp học phần, mã học phần, tên học phần, số tín chỉ của học phần, thời gian học tập, địa điểm học tập, giảng viên, đồng giảng, trợ giảng (nếu có);
+Trưởng khoa phân công giảng viên, đồng giảng, trợ giảng (nếu có) mỗi lớp học phần theo đúng chuyên môn, nghiệp vụ;
+Lớp học phần được thành lập khi có số lượng sinh viên tối thiểu đã đăng ký vào lớp như sau:
+- 60 sinh viên đối với các học phần giáo dục đại cương, 50 sinh viên đối với những học phần cơ sở ngành và 40 sinh viên đối với những học phần chuyên ngành; 20 sinh viên đối với các học phần chỉ có nội dung thực hành, thí nghiệm, học phần ngoại ngữ hoặc học phần chuyên môn giảng dạy bằng ngoại ngữ;
+- Nếu số lượng sinh viên đăng ký thấp hơn số lượng tối thiểu quy định thì lớp học sẽ không được tổ chức; sinh viên phải đăng ký chuyển sang học những học phần khác, nếu chưa đảm bảo đủ quy định về khối lượng học tập tối thiểu trong học kỳ;
+- Trường hợp đặc biệt do Hiệu trưởng quyết định.
+Lớp học phần Thực tập, Đồ án/Dự án; lớp học phần Đồ án/Khóa luận tốt nghiệp không quy định số lượng sinh viên tối thiểu.
+Lấy ý kiến phản hồi của người học về các điều kiện bảo đảm chất lượng, hiệu quả học tập:
+Nhà trường tổ chức lấy ý kiến phản hồi của người học về các rút bảo đảm chất lượng, hiệu quả học tập đối với lớp học phần thông qua Hệ thống quản lý đào tạo của Nhà trường;
+Thời điểm lấy ý kiến: Sau khi đánh giá kết thúc học phần;
+Kết quả lấy ý kiến phản hồi của người học, bao gồm nội dung, mức độ, được công khai tới cán bộ, viên chức, giảng viên và sinh viên liên quan trên Hệ thống quản lý đào tạo của Nhà trường.
+5. Trách nhiệm và quyền hạn của giảng viên được phân công giảng dạy các lớp học phần:
+Được phân công giảng dạy theo đúng chuyên môn, nghiệp vụ; được quyền đề nghị phân công giảng viên dạy thay, đề nghị đổi giờ trong trường hợp bất khả kháng không thể tham gia giảng dạy được;
+Thông báo cho sinh viên về mục tiêu, chuẩn đầu ra, nội dung, phương pháp (phương thức), kế hoạch dạy học và đánh giá kết quả học tập ngay trong buổi học đầu tiên của lớp học phần;
+Giảng dạy, kiểm tra, đánh giá kết quả học tập một cách khách quan theo đúng đề cương chi tiết học phần, hướng dẫn dạy học, hướng dẫn đánh giá kết quả học tập, thời khóa biểu và lịch giảng dạy đã được phê duyệt. Công bố kết quả học tập cho sinh viên và nhập kết quả học tập lên Hệ thống quản lý đào tạo của Nhà trường chậm nhất là 07 ngày làm việc sau khi thực hiện mỗi bài kiểm tra, đánh giá;
+Hướng dẫn sinh viên xây dựng kế hoạch tự học tập, phương pháp học tập, nghiên cứu phù hợp với đặc thù của học phần; Dành tối thiểu 60 phút/Giờ giảng lý thuyết và 30 phút/Giờ hướng dẫn thực hành hoặc thí nghiệm để hướng dẫn, giải đáp thắc mắc trong quá trình sinh viên tự học, chuẩn bị bài và làm bài tập thông qua:
+Tư vấn trực tiếp tại văn phòng bộ môn/khoa hoặc gián tiếp qua Email, điện thoại;
+Tham gia làm chủ nhiệm hoặc cố vấn chuyên môn các Câu lạc bộ theo phân công của khoa, bộ môn;
+Thực hiện tư vấn, hỗ trợ cho sinh viên thông qua các hệ thống Công nghệ thông tin và truyền thông chính thức được công bố cho sinh viên; Thường xuyên vào lớp học trực tuyến trên mô đun “Dạy học trực tuyến”, “Dạy học kết hợp” của Hệ thống Đại học điện tử sau khi lớp học phần được thành lập để kịp thời giải đáp thắc mắc cho sinh viên;3
+Thực hiện đúng các quy định về hồ sơ giảng viên;
+Chủ trì, điều phối hoạt động của trợ giảng (nếu có), của chuyên gia được Nhà trường mời đồng giảng (nếu có) theo đúng đề cương chi tiết học phần, hướng
+
+dẫn dạy học, hướng dẫn đánh giá kết quả học tập, thời khóa biểu và lịch giảng dạy đã được phê duyệt;
+Viên chức, người lao động được phân công làm trợ giảng thực hiện nhiệm vụ hỗ trợ giảng viên trong giảng dạy, giúp giảng viên trong việc phụ đạo, hướng dẫn chuẩn bị bài, làm bài tập, thảo luận, thí nghiệm, thực hành; kiểm tra, giám sát, khuyến khích việc tham gia học tập của sinh viên.
+Trách nhiệm và quyền hạn của sinh viên khi tham dự các lớp học phần:
+Được giảng viên công bố thông tin về mục tiêu, nội dung, kế hoạch dạy học và các hình thức kiểm tra, đánh giá kết quả học tập của học phần ngay trong buổi học đầu tiên của lớp học phần;
+Tham gia học tập, đánh giá kết quả học tập theo đúng thời khóa biểu và hướng dẫn của giảng viên được phân công giảng dạy lớp học phần;
+Được tôn trọng, đối xử bình đẳng trong quá trình học tập và đánh giá kết quả học tập;
+Được đánh giá và tính điểm học phần trừ các trường hợp sau:
+- Đối với học phần chỉ có lý thuyết hoặc học phần có cả lý thuyết và đồ án, dự án, tiểu luận, bài tập lớn: Sinh viên vắng mặt trên lớp quá 30% số giờ học lý thuyết không được tham dự đánh giá kết thúc học phần, nhận điểm F là điểm học phần;
+- Đối với học phần có cả lý thuyết và thực hành, thí nghiệm: Sinh viên vắng mặt trên lớp quá 30% số giờ học lý thuyết hoặc quá 30% số giờ học thực hành, thí nghiệm sẽ không được tham dự đánh giá kết thúc học phần, nhận điểm F là điểm học phần;
+- Đối với các học phần Thực hành, Thí nghiệm: Sinh viên vắng mặt quá 30% số giờ học thực hành, thí nghiệm phải nhận điểm F là điểm học phần;
+- Đối với các học phần Tiểu luận, Bài tập lớn, Đồ án/Dự án: Sinh viên không báo cáo kết quả quá trình thực hiện hoặc không hoàn thành nhiệm vụ theo tiến độ thực hiện Tiểu luận, Bài tập lớn, Đồ án/Dự án quy định trong Đề cương chi tiết học phần hoặc yêu cầu trong Phiếu giao Tiểu luận, Bài tập lớn, Đồ án/Dự án sẽ không được tham dự đánh giá kết thúc học phần, nhận điểm F là điểm học phần.
+Được giảng viên thông báo kết quả học tập và có thể tra cứu kết quả học tập từ Hệ thống quản lý đào tạo sau 07 ngày làm việc kể từ ngày thực hiện bài kiểm tra, đánh giá;
+Được phúc tra, khiếu nại kết quả học tập trong vòng 05 ngày làm việc kể từ ngày công bố kết quả
+Sinh viên có quyền và trách nhiệm đóng góp ý kiến phản hồi về các điều kiện bảo đảm chất lượng, hiệu quả học tập đối với các lớp học phần đã tham gia học tập theo quy định tại khoản 4 Điều này.
+Điều 9. Đánh giá và tính điểm học phần
+ Đối với mỗi học phần, sinh viên được đánh giá tối thiểu qua hai điểm thành phần, đối với các học phần có khối lượng nhỏ hơn 02 tín chỉ có thể chỉ có một điểm đánh giá. Các điểm thành phần được đánh giá theo thang điểm 10, bao gồm: điểm làm bài tập; điểm kiểm tra thường xuyên trong quá trình học tập; điểm đánh giá nhận thức và thái độ tham gia các hoạt động học tập trên lớp; điểm đánh giá phần thực hành, thí nghiệm; điểm thi giữa học phần (nếu có); điểm đánh giá kết thúc học phần (thi kết thúc học phần hoặc báo cáo tiểu luận, bài tập lớn, đồ án/dự án nếu học phần có tín chỉ tiểu luận/bài tập lớn/đồ án/dự án). Việc lựa chọn số lượng, phương pháp, hình thức đánh giá và trọng số để tính điểm học phần của các điểm đánh giá thành phần được quy định trong đề cương chi tiết học phần, trong đó:
+Đối với các học phần chỉ có lý thuyết hoặc học phần có lý thuyết và thực hành/thí nghiệm/tiểu luận/bài tập lớn/đồ án/dự án: Điểm đánh giá kết thúc học phần có trọng số không dưới 50%;
+Đối với các học phần thực hành/thí nghiệm: Điểm học phần là trung bình có trọng số của điểm đánh giá các bài thực hành/thí nghiệm hoặc các chuẩn đầu ra học phần, được làm tròn đến một chữ số thập phân;
+Đối với các học phần dự án, đồ án, thực tập, kiến tập: Điểm đánh giá kết thúc học phần có trọng số không dưới 70%.
+Đối với các học phần trong đề cương chi tiết học phần không quy định cụ thể về số lượng, phương pháp, hình thức đánh giá và trọng số của các điểm thành phần, thực hiện như sau:
+Các học phần chỉ có lý thuyết hoặc có cả lý thuyết và thực hành, thí nghiệm hoặc có cả lý thuyết và đồ án, dự án, tiểu luận, bài tập lớn.
+Cách xác định điểm trung bình các điểm trong kỳ:
+Điểm kiểm tra thường xuyên hệ số 1, Điểm thi giữa học phần hệ số 2
+Điểm trung bình các điểm trong kỳ là trung bình cộng của các điểm kiểm tra thường xuyên, điểm thi giữa học phần theo hệ số của từng loại điểm. Điểm
+trung bình các điểm trong kỳ được làm tròn đến một chữ số thập phân.
+- Cách tính các loại điểm:
+Điểm kiểm tra thường xuyên: Gồm các điểm kiểm tra kết quả học tập hàng ngày, điểm đánh giá các bài thực hành, thí nghiệm. Số điểm kiểm tra thường xuyên được quy định cụ thể trong đề cương chi tiết học phần và phải đảm bảo: đối với học phần có từ 3 tín chỉ trở xuống phải có ít nhất 2 điểm kiểm tra thường xuyên, đối với những học phần có từ 4 tín chỉ trở lên phải có tối thiểu 2 điểm kiểm tra thường xuyên và có 1 điểm thi giữa học phần.
+Điểm thi giữa học phần: Thời điểm tổ chức thi và nội dung thi do giảng viên giảng dạy lựa chọn trên cơ sở tổng hợp nội dung dạy học từ đầu học phần. Thời gian làm bài thi giữa học phần từ 45 đến 90 phút.
+Điểm kiểm tra thường xuyên và điểm thi giữa học phần được làm tròn đến 0,5 và được giảng viên thông báo tới sinh viên trong vòng 7 ngày làm việc kể từ ngày thi, kiểm tra.
+Cách xác định điểm học phần:
+Điểm trung bình các điểm trong kỳ hệ số 1, Điểm thi kết thúc học phần hệ số 2
+Điểm thi kết thúc học phần được làm tròn đến 0,5.
+Điểm học phần: Là trung bình cộng của điểm trung bình các điểm trong kỳ và điểm thi kết thúc học phần theo hệ số của từng loại điểm. Điểm học phần
+được tính theo thang điểm 10 (từ 0 ÷ 10), làm tròn đến một chữ số thập phân và chuyển qua thang điểm chữ để tính điểm trung bình học kỳ, trung bình tích lũy.
+Các học phần thực hành (chỉ có Thực hành/Thí nghiệm): Điểm trung bình cộng của điểm từng bài Thực hành/Thí nghiệm trong học kỳ được làm tròn
+đến một chữ số thập phân là điểm của học phần thực hành. Điểm đánh giá bài
+Thực hành/Thí nghiệm làm tròn đến 0,5 và được giảng viên thông báo tới sinh viên trong vòng 02 ngày làm việc kể từ ngày kết thúc bài Thực hành/Thí nghiệm.
+Học phần Đồ án/Dự án, Bài tập lớn: Sử dụng điểm đánh giá kết thúc học phần làm điểm học phần. Điểm đánh giá theo thang điểm 10 và làm tròn đến 0,5.
+Hình thức đánh giá trực tuyến được áp dụng khi đảm bảo trung thực, công bằng và khách quan như đánh giá trực tiếp, đồng thời đóng góp không quá 50% trọng số điểm học phần; riêng việc tổ chức bảo vệ và đánh giá đồ án, khóa
+luận được thực hiện trực tuyến với trọng số cao hơn khi đáp ứng thêm các điều kiện sau đây:
+Việc đánh giá được thực hiện thông qua một hội đồng chuyên môn gồm ít nhất 3 thành viên;
+Hình thức bảo vệ và đánh giá trực tuyến được sự đồng thuận của các thành viên hội đồng và người học;
+Diễn biến của buổi bảo vệ trực tuyến được ghi hình, ghi âm đầy đủ và lưu trữ.
+4. Sinh viên vắng mặt trong buổi thi, đánh giá không có lý do chính đáng phải nhận điểm 0. Sinh viên vắng mặt có lý do chính đáng được dự thi, đánh giá bổ sung và được tính điểm lần đầu. Đối với thi kết thúc học phần, trong 10 ngày làm việc kể từ ngày thi, những sinh viên vắng mặt có lý do chính đáng phải làm đơn (kèm theo hồ sơ minh chứng cho lý do vắng mặt) ký xác nhận Trưởng khoa quản lý sinh viên để được tham dự kỳ thi bổ sung do Trung tâm Khảo thí tổ chức. Thời gian tổ chức đợt thi bổ sung do Trung tâm Khảo thí quy định nhưng phải đảm bảo hoàn thành kết quả thi đợt bổ sung theo quy định tại điểm d khoản 7 Điều này. Sinh viên vắng mặt ở kỳ thi chính được bố trí dự thi ở kỳ thi bổ sung nhưng không tham dự sẽ nhận điểm 0 là điểm thi kết thúc học phần. Sinh viên có điểm thi kết thúc học phần bằng 0 được coi là điểm liệt và phải nhận điểm học phần là
+điểm 0.
+Đánh giá học phần Đồ án/Khóa luận tốt nghiệp được Nhà trường quy định trong văn bản riêng.
+Kết quả các hoạt động thực tập tại doanh nghiệp, nghiên cứu khoa học, thi Robocon, thi Olympic, thi tay nghề giỏi, thi xe tiết kiệm nhiên liệu, thi cuộc đua số... được ghi nhận và có thể quy đổi tương đương với các học phần trong chương trình đào tạo:
+Đối với các học phần thực tập tại doanh nghiệp: trước khi tổ chức chương trình thực tập tại doanh nghiệp 01 tháng, Khoa xây dựng đề cương thực tập, đề xuất học phần tương đương trong chương trình đào tạo và chuyển về Phòng Đào tạo. Phòng Đào tạo xem xét, tổng hợp và trình Hiệu trưởng phê duyệt.
+Đối với các hoạt động nghiên cứu khoa học, thi Robocon, thi Olympic, thi tay nghề giỏi, thi xe tiết kiệm nhiên liệu, thi cuộc đua số, ...: những sinh viên đạt từ giải Ba cấp Trường trở lên (hoặc tương đương), Khoa lập danh sách (kèm theo hồ sơ minh chứng, có xác nhận của đơn vị phụ trách lĩnh vực), đề xuất học phần tương đương được đặc cách miễn học và điểm học phần được công nhận (tối đa 10 điểm) chuyển về Phòng Đào tạo để tổng hợp, trình Hiệu trưởng phê duyệt.
+Điểm học phần được tính từ tổng các điểm thành phần nhân với trọng số tương ứng, được làm tròn tới một chữ số thập phân và xếp loại điểm chữ như dưới đây, trừ các trường hợp được quy định tại điểm d khoản này.
+Loại đạt có phân mức, áp dụng cho các học phần được tính vào điểm trung bình học tập, bao gồm:
+            A: từ 8,5 đến 10,0;
+        B: từ 7,0 đến 7,6; C+: từ 6,2 đến 6,9;
+        C: từ 5,5 đến 6,1; D+: từ 4,7 đến 5,4;
+        D: từ 4,0 đến 4,6.
+
+Loại đạt không phân mức, áp dụng cho các học phần chỉ yêu cầu đạt, không tính vào điểm trung bình học tập, không áp dụng đối với các học phần tăng cường của môn học ngoại ngữ:
+        P: từ 5,0 trở lên.
+Loại không đạt:
+        F: dưới 4,0
+Một số trường hợp đặc biệt sử dụng các điểm chữ xếp loại, không được tính vào điểm trung bình học tập:
+I: Điểm chưa hoàn thiện do được phép hoãn thi, kiểm tra. Trong 02 học kỳ chính tiếp theo, sinh viên có điểm I phải trả xong các nội dung còn nợ để được chuyển điểm. Nếu không hoàn thành sinh viên phải nhận điểm 0 đối với các điểm đánh giá còn thiếu;
+X: Điểm chưa hoàn thiện do chưa đủ dữ liệu. Điểm X được áp dụng đối với những học phần mà Phòng Đào tạo chưa nhận được báo cáo kết quả học tập của sinh viên từ Khoa quản lý học phần hoặc Trung tâm Khảo thí chuyển đến; Trong 01 học kỳ chính tiếp theo, Trung tâm Khảo thí chịu trách nhiệm hoàn thiện các nội dung để được chuyển điểm;
+R: Điểm học phần được miễn học và công nhận tín chỉ. Điểm R được áp dụng cho những học phần được miễn học và công nhận tín chỉ khi sinh viên 
+chuyển từ cơ sở đào tạo khác đến hoặc học liên thông lên trình độ đại học, liên thông sang ngành học khác;
+Sinh viên có điểm I và điểm X sau khi hoàn thiện, chuyển điểm được tính lần đầu và dùng để tính điểm trung bình tích lũy.
+Học lại, thi và học cải thiện điểm:
+Sinh viên có học phần không đạt phải đăng ký học lại theo quy định tại khoản 1 Điều 3 của Quy chế này, trừ trường hợp quy định tại điểm c khoản 8 Điều này; điểm học lần cuối là điểm chính thức của học phần;
+Sinh viên được quyền đăng ký học lại, học đổi (đối với các học phần tự chọn) các học phần đạt để cải thiện điểm. Điểm cao nhất trong các lần học sẽ được dùng để tính điểm trung bình học kỳ, trung bình tích lũy. Nhà trường không giới hạn số lần đăng ký học lại hoặc học đổi trong thời gian sinh viên được phép hoàn thành chương trình theo quy định. Sinh viên có thể đăng ký học lại, học đổi trong học kỳ chính hoặc học kỳ phụ theo kế hoạch tổ chức đào tạo của Nhà trường. Thủ tục đăng ký học lại, học đổi giống như đối với đăng ký một học phần mới;
+Lưu học sinh được phép đăng ký đánh giá lại bài đánh giá kết thúc học phần để cải thiện điểm học phần từ không đạt thành đạt; trong trường hợp này, điểm học phần được giới hạn tối đa ở mức điểm C+ sau khi đánh giá lại. Thời gian tiếp nhận đề nghị đánh giá lại bài đánh giá kết thúc học phần của sinh viên trong vòng 03 ngày làm việc kể từ ngày công bố điểm học phần. Trung tâm Khảo thí tiếp nhận và phối hợp với Khoa để giải quyết đề nghị của sinh viên; cập nhật kết quả vào Hệ thống quản lý đào tạo của Nhà trường sau khi đánh giá lại trong vòng 10 ngày làm việc kể từ ngày công bố điểm học phần.
+Điều 10. Đánh giá kết quả học tập trong học kỳ, trong năm học, từ đầu khóa học
+Kết quả học tập trong học kỳ, trong năm học, từ đầu khóa học của sinh viên được đánh giá dựa trên kết quả các học phần nằm trong yêu cầu của chương trình đào tạo mà sinh viên đã học và có điểm theo các tiêu chí sau đây:
+Tổng số tín chỉ của những học phần trong chương trình đào tạo dùng để tính điểm mà sinh viên không đạt trong một học kỳ, trong một năm học, hoặc nợ đọng từ đầu khoá học;
+Tổng số tín chỉ của những học phần trong chương trình đào tạo dùng để tính điểm mà sinh viên đã đạt từ đầu khóa học (số tín chỉ tích lũy), tính cả các học phần được miễn học, được công nhận tín chỉ;
+Điểm trung bình của những học phần trong chương trình đào tạo dùng để tính điểm mà sinh viên đã học trong một học kỳ (điểm trung bình học kỳ), trong một năm học (điểm trung bình năm học), được tính bằng trung bình cộng có trọng số các điểm chính thức của học phần với trọng số là số tín chỉ của học phần, làm tròn đến hai chữ số thập phân;
+Điểm trung bình của những học phần trong chương trình đào tạo dùng để tính điểm mà sinh viên đã học và đạt từ đầu khóa học (điểm trung bình tích lũy), được tính bằng trung bình cộng có trọng số các điểm chính thức của học phần với trọng số là số tín chỉ của học phần, làm tròn đến hai chữ số thập phân;
+
+Trong học kỳ, năm học, khóa học, nếu sinh viên học một học phần nhiều lần thì điểm cao nhất trong các lần học của sinh viên được dùng để tính điểm trung bình học kỳ, năm học, tích lũy.
+Kết quả học tập trong học kỳ phụ được tính vào kết quả học tập của học kỳ chính tổ chức ngay trước học kỳ phụ để tính các điểm trung bình trong các đợt xét học tiếp, xét tốt nghiệp và xếp loại học lực, xếp trình độ năm học của sinh viên.
+Để tính điểm trung bình, điểm chữ của học phần được quy đổi về điểm số tương ứng theo thang từ 0 tới 4 như sau:
+A quy đổi thành 4,0;
+B+ quy đổi thành 3,5;
+B quy đổi thành 3,0;
+C+ quy đổi thành 2,5;
+C quy đổi thành 2,0;
+D+ quy đổi thành 1,5;
+D  quy đổi thành 1,0;
+        F quy đổi thành 0.
+Một số quy định khác:
+Những điểm chữ không được quy định tại khoản 2 Điều này không được tính vào các điểm trung bình học kỳ, năm học hoặc tích lũy. Những học phần không nằm trong yêu cầu của chương trình đào tạo không được tính vào các tiêu chí đánh giá kết quả học tập của sinh viên;
+Nếu số lượng học phần trong nhóm tự chọn mà sinh viên tích lũy lớn hơn số lượng học phần quy định phải tích lũy trong nhóm tự chọn, sẽ dùng điểm các học phần cao nhất, đủ số lượng học phần và số tín chỉ theo quy định của nhóm để tính điểm trung bình tích lũy. Trường hợp số tín chỉ các học phần tự chọn vượt
+quá số tín chỉ quy định nhưng kết quả học tập của các học phần bằng nhau sinh viên được lựa chọn học phần dùng để tính điểm trung bình tích lũy trong việc xét tốt nghiệp;
+Những học phần sinh viên đã được miễn học và công nhận tín chỉ nhưng sinh viên đăng ký học, được đánh giá đạt sẽ dùng để tính điểm trung bình tích lũy;
+Trường hợp sinh viên không dùng hoặc dùng điểm của học phần khác để tính điểm trung bình tích lũy được quy định tại điểm b, điểm c khoản 3 Điều này phải làm đơn gửi Phòng Đào tạo trước thời điểm xét công nhận tốt nghiệp 01 tuần.
+Sinh viên được xếp loại học lực theo điểm trung bình học kỳ, điểm trung bình năm học hoặc điểm trung bình tích lũy như sau:
+Từ 3,60 đến 4,00: Xuất sắc;
+Từ 3,20 đến 3,59: Giỏi;
+Từ 2,50 đến 3,19: Khá;
+Từ 2,00 đến 2,49: Trung bình;
+Từ 1,00  đến 1,99: Yếu;
+Dưới 1,00: Kém.
+Sinh viên được xếp trình độ năm học căn cứ số tín chỉ tích lũy từ đầu khóa học (gọi tắt là KLTL) và số tín chỉ quy định cho chương trình đào tạo (gọi tắt là KLCT), cụ thể như sau:
+Trình độ năm thứ nhất: KLTL ≤ 1/4 KLCT;
+Trình độ năm thứ hai: 1/4 KLCT < KLTL ≤ 1/2 KLCT;
+Trình độ năm thứ ba: 1/2 KLCT < KLTL ≤ 3/4 KLCT;
+Trình độ năm cuối khóa: KLTL > 3/4 KLCT.6
+Điều 11. Xử lý kết quả học tập theo tín chỉ
+Sinh viên được cảnh báo học tập của học kỳ nếu vi phạm một trong các trường hợp sau:
+Điểm trung bình học kỳ đạt dưới 0,80 đối với học kỳ đầu của khóa học, dưới 1,00 đối với các học kỳ tiếp theo;
+Điểm trung bình tích lũy đạt dưới 1,20 đối với sinh viên trình độ năm thứ nhất; dưới 1,40 đối với sinh viên trình độ năm thứ hai; dưới 1,60 đối với sinh viên trình độ năm thứ ba và dưới 1,80 đối với sinh viên các năm tiếp theo.
+    1. Sinh viên bị buộc thôi học trong các trường hợp sau:
+
+Lần thứ 2 liên tiếp có kết quả học tập rơi vào các trường hợp thuộc điểm a hoặc điểm b khoản 1 Điều này;
+Vượt quá thời gian tối đa được phép học quy định tại khoản 5 Điều 2 của Quy chế này;
+Không đăng ký khối lượng học tập trong 02 học kỳ chính liên tiếp.
+Cảnh báo kết quả học tập và buộc thôi học sinh viên được quy định tại khoản 1, khoản 2 Điều này. Phòng Đào tạo thông báo kế hoạch xét học tiếp và mở đợt xét học tiếp trên Hệ thống quản lý đào tạo của Nhà trường để các Khoa thực hiện xét học tiếp lên học kỳ tiếp theo cho sinh viên của Khoa quản lý. Các Khoa quản lý sinh viên chịu trách nhiệm rà soát đảm bảo chính xác, in và ký danh sách sinh viên được cảnh báo kết quả học tập, sinh viên bị buộc thôi học trong học kỳ gửi Hiệu trưởng thông qua Phòng Đào tạo. Phòng Đào tạo kiểm tra và tiếp nhận hồ sơ sau đó lập quyết định trình Hiệu trưởng ký ban hành.
+Trưởng khoa quản lý sinh viên chịu trách nhiệm về việc thông báo cho sinh viên: trong vòng 10 ngày làm việc đối với trường hợp bị cảnh báo kết quả học tập của học kỳ, trong vòng 01 tháng đối với trường hợp không đủ điều kiện học tiếp kể từ ngày Hiệu trưởng ký quyết định ban hành.
+Việc bảo lưu kết quả học tập đã tích luỹ trong trường hợp sinh viên bị buộc thôi học được quy định tại Điều 14.
+Điều 12. Công nhận kết quả học tập và chuyển đổi tín chỉ
+Kết quả học tập ngoài trường, kết quả học tập đã có trước khi nhập học của sinh viên được Hội đồng chuyên môn của Khoa (Hội đồng khoa học và đào tạo hoặc Hội đồng ngành) xem xét, đề nghị Trưởng khoa trình Hiệu trưởng phê duyệt miễn học, công nhận tín chỉ cho sinh viên trong những trường hợp như sau: a) Kết quả học tập ở trình độ trung cấp, cao đẳng của sinh viên trúng tuyển liên thông lên trình độ đại học;
+Kết quả học tập ở trình độ đại học của sinh viên trúng tuyển và học liên thông để nhận thêm một văn bằng tốt nghiệp đại học của một ngành đào tạo khác; c) Kết quả học tập của sinh viên tại các cơ sở giáo dục đại học khác nay chuyển về học tại Nhà trường;
+Kết quả học tập của sinh viên tại các cơ sở đào tạo khác theo chương trình trao đổi sinh viên được ký kết;
+Đối với các học phần: Thực tập tốt nghiệp, Thực tập doanh nghiệp, sinh viên được phép thực hiện tại cơ sở đào tạo khác theo chương trình trao đổi sinh viên nhưng phải báo cáo kết quả thực tập tại trường để được đánh giá và cho điểm. Trường hợp đặc biệt do Hiệu trưởng quyết định.
+Hội đồng chuyên môn của Khoa xem xét và đề nghị Trưởng khoa công nhận, chuyển đổi tín chỉ trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần và các điều kiện bảo đảm chất lượng thực hiện chương trình theo từng học phần.
+Khối lượng tín chỉ tối đa sinh viên được công nhận, chuyển đổi không vượt quá 50% khối lượng học tập tối thiểu của chương trình đào tạo.
+Điều 13. Công nhận tốt nghiệp và cấp bằng tốt nghiệp
+Sau mỗi học kỳ, sinh viên được Nhà trường xét và công nhận tốt nghiệp khi có đủ các điều kiện sau:
+Tích lũy đủ học phần, số tín chỉ theo yêu cầu của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo;
+Hoàn thành các môn học Giáo dục quốc phòng-an ninh, Giáo dục thể chất; c) Hoàn thành các môn học Kỹ năng sử dụng công nghệ thông tin, Ngoại ngữ và các môn học khác (nếu có) theo yêu cầu của chương trình đào tạo; d) Điểm trung bình tích lũy đạt từ 2,00 trở lên;
+Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập.
+Quy trình xét và công nhận tốt nghiệp:
+Trước mỗi đợt xét tốt nghiệp 01 tháng, Nhà trường thông báo đến sinh viên trên cổng thông tin điện tử dành cho sinh viên (https://sv.dhcnhn.vn) để sinh viên kiểm tra các nội dung về: kết quả học tập, thông tin cá nhân sẽ được in trên bằng tốt nghiệp, các điều kiện Giáo dục thể chất, Giáo dục quốc phòng-an ninh, Ngoại ngữ, Kỹ năng sử dụng công nghệ thông tin, ... Nếu có sai sót, sinh viên đề nghị sửa sai thông tin cá nhân hoặc gửi khiếu nại, thắc mắc về kết quả học tập theo các quy trình, hướng dẫn Nhà trường đã ban hành;
+Phòng Đào tạo mở đợt xét trên Hệ thống quản lý đào tạo để các Khoa thực hiện xét tốt nghiệp. Trưởng khoa chịu trách nhiệm trong việc kiểm tra và lập danh sách sinh viên đủ điều kiện tốt nghiệp đề nghị Hiệu trưởng công nhận tốt nghiệp thông qua Phòng Đào tạo;
+Trong vòng 10 ngày làm việc kể từ ngày Khoa gửi danh sách sinh viên đủ điều kiện tốt nghiệp, Phòng Đào tạo thực hiện kiểm tra, tổng hợp, phản hồi sai sót và lập danh sách sinh viên tốt nghiệp trình Hiệu trưởng ký quyết định công nhận tốt nghiệp cho sinh viên.
+Quy định đối với sinh viên đủ điều kiện tốt nghiệp:
+Sinh viên đủ điều kiện tốt nghiệp được Hiệu trưởng ký quyết định công nhận tốt nghiệp, cấp bằng tốt nghiệp và phụ lục văn bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành mọi nghĩa vụ đối với Nhà trường;
+Trong thời gian chờ cấp bằng tốt nghiệp, Phòng Đào tạo chịu trách nhiệm cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên đã được công nhận tốt nghiệp;
+Sinh viên muốn học cải thiện điểm để nâng hạng tốt nghiệp phải làm đơn đề nghị hoãn tốt nghiệp trước khi Khoa gửi danh sách sinh viên đủ điều kiện tốt nghiệp theo quy định tại điểm b khoản 2 Điều này.
+Hạng tốt nghiệp được xác định căn cứ vào điểm trung bình tích lũy toàn khoá được quy định tại khoản 4 Điều 10 của Quy chế này. Hạng tốt nghiệp của sinh viên có điểm trung bình tích lũy loại xuất sắc và giỏi sẽ bị giảm đi một mức nếu thuộc một trong các trường hợp sau:
+Khối lượng của các học phần phải học lại có tổng số tín chỉ vượt quá 5% so với tổng số tín chỉ quy định cho toàn chương trình (áp dụng đối với sinh viên tuyển sinh, đào tạo từ ngày 3 tháng 5 năm 2021 trở đi);
+Sinh viên đã bị kỷ luật từ mức cảnh cáo trở lên trong thời gian học.
+Sinh viên đã hết thời gian học tập tối đa theo quy định nhưng chưa đủ điều kiện tốt nghiệp do chưa hoàn thành các môn học Giáo dục quốc phòng-an ninh, Giáo dục thể chất, Kỹ năng sử dụng công nghệ thông tin, Ngoại ngữ hoặc các môn học khác (nếu có) theo yêu cầu của chương trình đào tạo, trong thời hạn 05 năm (áp dụng cho sinh viên tuyển sinh, đào tạo trước ngày 3 tháng 5 năm 2021), 03 năm (áp dụng cho sinh viên tuyển sinh, đào tạo từ ngày 3 tháng 5 năm 2021 trở đi) tính từ khi bị buộc thôi học được hoàn thiện các điều kiện còn thiếu và đề nghị xét công nhận tốt nghiệp;
+Sinh viên không tốt nghiệp được Nhà trường cấp chứng nhận hoàn thành các học phần đã tích lũy trong thời gian học tập.
+Điều 14. Nghỉ học tạm thời, thôi học
+Sinh viên được nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau:
+Được điều động vào lực lượng vũ trang;
+Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế;
+Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế;
+Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ tại Nhà trường và không thuộc các trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật.
+Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức quy định tại khoản 5 Điều 2 của Quy chế này.
+Thủ tục cho sinh viên nghỉ học tạm thời:
+Sinh viên hoàn thành các nghĩa vụ đối với Nhà trường, làm đơn xin nghỉ học tạm thời và kèm theo các hồ sơ minh chứng;
+Trưởng khoa tiếp nhận hồ sơ, đối chiếu các quy định tại khoản 1 Điều này và ký xác nhận trước khi gửi về Phòng Đào tạo;
+Phòng Đào tạo kiểm tra hồ sơ, ra quyết định cho sinh viên nghỉ học tạm thời và trình Hiệu trưởng ký duyệt.
+Sinh viên nghỉ học tạm thời có kế hoạch trở lại học tập phải làm đơn gửi về Khoa trước thời điểm bắt đầu đăng ký khối lượng học tập của học kỳ ít nhất 02 tuần.
+Khoa tiếp nhận, kiểm tra và gửi hồ sơ về Phòng Đào tạo trong 01 tuần kể từ ngày nhận đơn của sinh viên;
+Phòng Đào tạo ra quyết định tiếp nhận sinh viên trở lại học tiếp trình Hiệu trưởng ký duyệt trước khi bắt đầu học kỳ 02 tuần.
+Sinh viên có nguyện vọng được thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật, làm đơn xin thôi học gửi Hiệu trưởng thông qua Phòng Công tác Sinh viên. Sinh viên được cấp chứng nhận về các học phần đã tích lũy trong chương trình đào tạo khi có quyết định cho thôi học và hoàn thành các nghĩa vụ đối với Nhà trường. Sau khi có quyết định cho thôi học, sinh viên muốn quay trở lại học phải dự tuyển sinh đầu vào như những thí sinh khác.
+Điều 15. Sinh viên chuyển trường, chuyển ngành/chương trình đào tạo
+Sinh viên của các cơ sở giáo dục đại học khác được xét chuyển vào học tại Trường nếu thoả mãn các điều kiện sau đây:
+Không đang là sinh viên trình độ năm thứ nhất hoặc năm cuối khóa, không thuộc diện bị xem xét buộc thôi học và còn đủ thời gian học tập theo quy định tại khoản 5 Điều 2 của Quy chế này;
+Đạt điều kiện trúng tuyển trong cùng khóa tuyển sinh của ngành/chương trình đào tạo có nguyện vọng được chuyển đến;
+Nhà trường có đủ các điều kiện bảo đảm chất lượng, chưa vượt quá năng lực đào tạo đối với ngành/chương trình đào tạo sinh viên có nguyện vọng chuyển đến;
+Được Hiệu trưởng trường đang học chấp nhận.10
+Thủ tục chuyển đến Trường Đại học Công nghiệp Hà Nội:
+Sinh viên chuyển đến phải có đủ hồ sơ chuyển trường bao gồm: đơn xin chuyển trường (theo mẫu), hồ sơ minh chứng đạt điều kiện trúng tuyển của chương trình/ngành đào tạo có nguyện vọng được chuyển đến (giấy chứng nhận kết quả thi tốt nghiệp trung học phổ thông/thi trung học phổ thông quốc gia, giấy báo trúng tuyển, ...), bảng kết quả học tập sinh viên có xác nhận của trường đang theo học, sơ yếu lý lịch;
+Phòng Đào tạo tiếp nhận hồ sơ, đối chiếu các quy định tại khoản 1 Điều này đề xuất Hiệu trưởng quyết định tiếp nhận hoặc không tiếp nhận. Nếu được tiếp nhận, Phòng Đào tạo chuyển kết quả học tập của sinh viên đã tích lũy cho Khoa quản lý ngành/chương trình đào tạo thực hiện xét miễn học và công nhận tín chỉ theo quy định tại khoản 1 Điều 12.
+Sinh viên chuyển đi khỏi Trường Đại học Công nghiệp Hà Nội phải làm đơn gửi Hiệu trưởng thông qua Phòng Đào tạo sau khi đã hoàn thành các nghĩa vụ đối với Nhà trường.
+Sinh viên được chuyển ngành/chương trình đào tạo nếu thỏa mãn các điều kiện sau:
+Sinh viên đã học xong 02 học kỳ chính đầu tiên của khóa học;
+Thỏa mãn điều kiện trúng tuyển của ngành/chương trình có nguyện vọng được chuyển đến;
+Được chuyển duy nhất 1 lần trong khóa học;
+Ngành/chương trình đào tạo sinh viên có nguyện vọng được chuyển đến còn chỉ tiêu đào tạo. Trong trường hợp số sinh viên có nguyện vọng được chuyển đến lớn hơn chỉ tiêu còn lại của ngành/chương trình đào tạo cho phép thì ưu tiên sinh viên có điểm trung bình tích lũy cao hơn.
+Thủ tục chuyển ngành/chương trình đào tạo: a) Sinh viên làm đơn (theo mẫu);
+Phòng Đào tạo tiếp nhận đơn và đối chiếu các điều kiện tại khoản 4 Điều này, đề xuất Hiệu trưởng cho phép hoặc không cho phép chuyển ngành/chương trình đào tạo;
+Khoa có sinh viên chuyển ngành/chương trình đào tạo sinh viên có nguyện vọng được chuyển đến xem xét bảo lưu kết quả học tập, miễn học và công nhận tín chỉ trên cơ sở đối sánh hai chương trình đào tạo trình Hiệu trưởng phê duyệt thông qua Phòng Đào tạo.
+Thời gian tối đa sinh viên được phép theo học trong ngành/chương trình đào tạo mới tính từ ngày sinh viên nhập học ngành/chương trình đào tạo trúng tuyển vào Nhà trường.
+Điều 16. Trao đổi sinh viên và hợp tác trong đào tạo
+Nhà trường thống nhất, ký kết văn bản hợp tác đào tạo với các cơ sở đào tạo trong việc công nhận lẫn nhau về quy trình đào tạo, nội dung đào tạo và giá trị của tín chỉ làm căn cứ cho phép sinh viên của Nhà trường được học một số học phần tại cơ sở đào tạo khác và ngược lại (sau đây gọi là trao đổi sinh viên).
+Trên cơ sở đánh giá và công nhận lẫn nhau, sinh viên của Nhà trường có thể đăng ký thực hiện học một số học phần tại cơ sở đào tạo khác, nếu được Hiệu trưởng của hai cơ sở đào tạo đồng ý với số lượng tín chỉ mà sinh viên tích lũy tại cơ sở đào tạo khác (nếu có) không vượt quá 25% tổng khối lượng của chương trình đào tạo.
+Trong hợp tác đào tạo giữa Nhà trường và cơ sở đào tạo khác (sau đây gọi là cơ sở phối hợp đào tạo), việc đánh giá và công nhận số lượng tín chỉ mà sinh viên tích lũy tại cơ sở phối hợp đào tạo không vượt quá 25% tổng khối lượng của chương trình đào tạo.
+ Điều kiện trao đổi sinh viên, công nhận kết quả học tập và chuyển đổi tín chỉ cho sinh viên được quy định cụ thể trong văn bản hợp tác đào tạo Nhà trường ký kết với cơ sở phối hợp đào tạo theo khoản 1 Điều này.
+Điều 17. Học cùng lúc hai chương trình
+Sinh viên có thể đăng ký học thêm các học phần của một chương trình khác, ngành khác nhưng chỉ được hưởng các quyền lợi chính thức và được xem xét công nhận tốt nghiệp chương trình thứ hai khi đã đăng ký thành công học chương trình thứ hai theo quy định tại khoản 2 Điều này.
+Sinh viên được đăng ký học chương trình thứ hai sớm nhất khi đã được xếp trình độ năm thứ hai của chương trình thứ nhất. Tại thời điểm đăng ký, sinh viên phải đáp ứng 01 trong 02 điều kiện sau:
+Học lực tính theo điểm trung bình tích lũy xếp loại khá trở lên và đáp ứng ngưỡng bảo đảm chất lượng của chương trình thứ hai trong năm tuyển sinh; b) Học lực tính theo điểm trung bình tích lũy xếp loại trung bình và đáp ứng điều kiện trúng tuyển của chương trình thứ hai trong năm tuyển sinh.
+Trong quá trình sinh viên học cùng lúc hai chương trình, nếu điểm trung bình tích luỹ của chương trình thứ nhất đạt dưới điểm trung bình hoặc thuộc diện cảnh báo kết quả học tập thì phải dừng học chương trình thứ hai ở học kỳ tiếp theo và bị loại khỏi danh sách đã đăng ký học chương trình thứ hai.
+Thời gian tối đa được phép học đối với sinh viên học cùng lúc hai chương trình là thời gian tối đa quy định cho chương trình thứ nhất, quy định tại khoản 5 Điều 2 của Quy chế này. Khi học chương trình thứ hai, sinh viên được công nhận kết quả của những học phần có nội dung và khối lượng kiến thức tương đương trong chương trình thứ nhất.
+Sinh viên chỉ được xét tốt nghiệp chương trình thứ hai, nếu có đủ điều kiện tốt nghiệp ở chương trình thứ nhất và đã đăng kí học chương trình thứ hai muộn nhất 02 năm trước thời điểm xét tốt nghiệp chương trình thứ hai.
+Điều 18. Học liên thông đối với người có văn bằng khác
+Người đã tốt nghiệp các trình độ đào tạo của giáo dục nghề nghiệp được dự tuyển và học liên thông lên trình độ đại học theo quy định hiện hành của Chính phủ, Thủ tướng Chính phủ, Bộ Giáo dục và Đào tạo và của Nhà trường.
+Người đã tốt nghiệp đại học được dự tuyển và học liên thông để nhận thêm một bằng tốt nghiệp đại học của một ngành đào tạo khác.
+Người học liên thông thực hiện chương trình đào tạo và đăng ký học tập theo kế hoạch chung như các sinh viên khác cùng hình thức đào tạo. Trên cơ sở công nhận và chuyển đổi tín chỉ, sinh viên được miễn trừ các học phần tương ứng với các học phần được miễn học, công nhận tín chỉ theo quy định tại Điều 12 của Quy chế này.
+Điều kiện, thủ tục tiếp nhận học liên thông lên trình độ đại học thực hiện theo quy định hiện hành của Chính phủ, Thủ tướng Chính phủ, Bộ Giáo dục và Đào tạo và quy chế tuyển sinh của Nhà trường.
+Điều 19. Xử lý vi phạm đối với sinh viên
+Sinh viên có gian lận trong khi dự kiểm tra thường xuyên, chuẩn bị tiểu luận, bài tập lớn, dự án, đồ án, thi giữa học phần, thi kết thúc học phần, chuẩn bị đồ án, khoá luận tốt nghiệp sẽ bị xử lý kỷ luật với từng học phần đã vi phạm theo các quy định của Quy chế thi tốt nghiệp Trung học phổ thông hiện hành do Bộ Giáo dục và Đào tạo ban hành, trừ trường hợp quy định tại khoản 2 Điều này.
+Sinh viên thi hộ hoặc nhờ người thi hộ đều bị kỷ luật ở mức đình chỉ học tập 01 năm đối với trường hợp vi phạm lần thứ nhất và buộc thôi học đối với trường hợp vi phạm lần thứ hai.
+Người học sử dụng hồ sơ, văn bằng, chứng chỉ giả làm điều kiện trúng tuyển hoặc điều kiện tốt nghiệp sẽ bị buộc thôi học; văn bằng tốt nghiệp nếu đã được cấp sẽ bị thu hồi, huỷ bỏ.
+Điều 20. Xây dựng và thực hiện quy chế
+Căn cứ Quy chế này và các quy định hiện hành khác có liên quan, Hiệu trưởng Nhà trường có trách nhiệm:
+Ban hành các quyết định tổ chức đào tạo chính quy, vừa làm vừa học, liên kết đào tạo, đào tạo liên thông (nếu có) bảo đảm đầy đủ các yêu cầu theo Quy chế này; trong đó phải ghi rõ tên ngành, hình thức đào tạo, đối tượng, chỉ tiêu và phương thức tuyển sinh, địa điểm đào tạo, cơ sở phối hợp đào tạo và các thông tin khác có liên quan;
+Tổ chức phổ biến, hướng dẫn cho sinh viên quy chế của Nhà trường và các quy định liên quan đến quá trình học tập, các quy định về nghĩa vụ và quyền lợi của sinh viên ngay đầu khóa học;
+Xây dựng, ban hành các quy định, thủ tục quy trình và hướng dẫn (nếu có) để thực hiện quy chế một cách đồng bộ, thống nhất trong toàn Trường;
+Tổ chức kiểm tra, thanh tra nội bộ việc thực hiện kế hoạch, chương trình, quy chế và các nhiệm vụ khác liên quan đến đào tạo; chịu sự kiểm tra, thanh tra, giám sát của Bộ Giáo dục và Đào tạo và các cơ quan có thẩm quyền theo các quy định hiện hành.
+Nhà trường thực hiện giải trình theo quy định tại khoản 4 Điều 13 Nghị định số 99/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật sửa đổi bổ sung một số điều của Luật Giáo dục đại học và các quy định khác của pháp luật có liên quan.
+Căn cứ Quy chế này và các quy định hiện hành khác có liên quan của
+Trường, Trưởng khoa có trách nhiệm:
+Phổ biến, hướng dẫn cho giảng viên, chuyên viên, nhân viên quy chế của Nhà trường và các quy định, thủ tục quy trình, hướng dẫn liên quan đến quá trình dạy học, các quy định về nghĩa vụ và quyền lợi của giảng viên;
+Phổ biến, hướng dẫn cho sinh viên quy chế của Nhà trường và các quy định, thủ tục quy trình, hướng dẫn liên quan đến quá trình học tập, các quy định về nghĩa vụ và quyền lợi của sinh viên ngay đầu khóa học;
+Tổ chức kiểm tra nội bộ việc thực hiện kế hoạch, chương trình, quy chế và các nhiệm vụ khác liên quan đến đào tạo; chịu sự kiểm tra, thanh tra, giám sát của Phòng Thanh tra Giáo dục, Phòng Đào tạo và các đơn vị chức năng khác theo quy định của Nhà trường.
+Điều 21. Chế độ báo cáo, lưu trữ, công khai thông tin
+Trước ngày 31 tháng 12 hàng năm:
+Nhà trường báo cáo Bộ Giáo dục và Đào tạo và cơ quan quản lý trực tiếp về số liệu sinh viên tuyển mới, tốt nghiệp, thôi học và đang học trong năm, dự kiến tốt nghiệp trong năm sau, tốt nghiệp đã có việc làm trong thời gian 12 tháng; phân loại theo đối tượng đầu vào, ngành đào tạo, khóa đào tạo và hình thức đào tạo;
+Nhà trường báo cáo Ủy ban nhân dân cấp tỉnh nơi liên kết đào tạo về tình hình tuyển sinh và đào tạo tại địa phương.
+Nhà trường có trách nhiệm lưu trữ, bảo quản an toàn các tài liệu liên quan tới công tác đào tạo theo các quy định do Bộ Giáo dục và Đào tạo ban hành:
+Quyết định trúng tuyển, bảng điểm gốc, quyết định công nhận tốt nghiệp, sổ gốc cấp phát bằng tốt nghiệp cho sinh viên là tài liệu lưu trữ được bảo quản vĩnh viễn;
+Tài liệu khác liên quan đến tuyển sinh, đào tạo được lưu trữ, bảo quản trong suốt quá trình đào tạo;
+Việc tiêu hủy tài liệu liên quan tuyển sinh, đào tạo hết thời gian lưu trữ được thực hiện theo quy định hiện hành của nhà nước.
+Nhà trường công khai trên cổng thông tin điện tử chậm nhất 45 ngày trước khi tổ chức đào tạo:
+Quy chế và các quy định quản lý đào tạo có liên quan;Quyết định mở ngành và các quyết định nêu tại điểm b khoản 1 Điều 21 đối với chương trình sẽ tổ chức đào tạo;
+Các điều kiện bảo đảm chất lượng theo quy định hiện hành của Bộ Giáo dục và Đào tạo;
+Các minh chứng về việc các chương trình đào tạo đáp ứng chuẩn chương
+trình đào tạo do Bộ Giáo dục và Đào tạo ban hành;
+Thông báo tuyển sinh theo quy chế tuyển sinh hiện hành;
+Các minh chứng về việc đáp ứng các yêu cầu tối thiểu đối với liên kết đào tạo vừa làm vừa học theo quy định tại khoản 2 và khoản 3 Điều 5 của Quy chế này.
+Khoa thực hiện chế độ báo cáo, lưu trữ, bảo quản tài liệu và công khai thông tin theo quy định do Nhà trường ban hành.
+Điều 22. Điều khoản thi hành
+Quy chế này áp dụng đối với tất cả các khóa tuyển sinh và đào tạo trình độ đại học tại Trường Đại học Công nghiệp Hà Nội.
+Quy chế này thay thế Quy chế Đào tạo đại học hệ vừa làm vừa học theo học chế tín chỉ tại Trường Đại học Công nghiệp Hà Nội ban hành kèm theo Quyết định số 1017/QĐ-ĐHCN ngày 5 tháng 9 năm 2016 của Trường Đại học Công nghiệp Hà Nội; Quy định liên kết đào tạo trình độ đại học của Trường Đại học Công nghiệp Hà Nội ban hành kèm theo Quyết định số 479/QĐ-ĐHCN ngày 8 tháng 5 năm 2018 của Trường Đại học Công nghiệp Hà Nội; Quy chế Đào tạo đại học và cao đẳng hệ chính quy theo học chế tín chỉ tại Trường Đại học Công nghiệp Hà Nội ban hành kèm theo Quyết định số 787/QĐ-ĐHCN ngày 9 tháng 8 năm 2018 của Trường Đại học Công nghiệp Hà Nội; Sửa đổi, bổ sung một số nội dung Quy chế đào tạo đại học và cao đẳng hệ chính quy theo học chế tín chỉ ban hành tại Quyết định số 787/QĐ-ĐHCN ngày 9 tháng 8 năm 2018 của Trường Đại học Công nghiệp Hà Nội ban hành kèm theo Quyết định số 663/QĐ-ĐHCN ngày 12 tháng 7 năm 2019 của Trường Đại học Công nghiệp Hà Nội.
+    CHƯƠNG 3: Tuyển sinh
+        3.1. Tuyển sinh chương trình đào tạo chuyên sâu đặc thù tương đương bậc 7 – Kỹ sư năm 2024
+1. Đối tượng xét tuyển: Thí sinh tốt nghiệp hoặc đủ điều kiện công nhận tốt nghiệp đại học (cấp bằng cử nhân) thuộc cùng nhóm ngành đào tạo với ngành/chương trình đào tạo đăng ký xét tuyển. (Danh mục ngành đúng, ngành phụ hợp theo Phụ lục).
+2. Điều kiện đăng ký xét tuyển: Điểm trung bình chung tích lũy toàn khóa ở bậc đại học đạt từ 5.0 trở lên tính theo thang điểm 10, từ 2.0 trở lên theo thang điểm 4.
+3. Thời gian đăng ký xét tuyển: Từ ngày 15/6/2024 đến 17h00 ngày 20/7/2024.
+4. Hình thức đăng ký xét tuyển: Đăng ký trực tuyến trên cổng thông tin tuyển sinh https://tuyensinh.haui.edu.vn
+5. Thời gian công bố kết quả xét tuyển: Trước 17h00 ngày 23/07/2024
+6. Danh mục ngành/chương trình đào tạo, chỉ tiêu tuyển sinh
+Mã 7510201KS , ngành Công nghệ kỹ thuật cơ khí, chỉ tiêu 40
+Mã 7510301KS, ngành Công nghệ kỹ thuật điện, điện tử, chỉ tiêu 40
+Mã 7510302KS, Công nghệ kỹ thuật điện tử - viễn thông chuyên sâu thiết kế vi mạch bán dẫn, chỉ tiêu 40
+7. Học bổ sung kiến thức
+Đối tượng học bổ sung kiến thức: Tốt nghiệp đại học ngành phù hợp với ngành dự tuyển. Trưởng đơn vị đào tạo đề xuất danh mục học phần cần bổ sung (nếu cần thiết) cho thí sinh tốt nghiệp các ngành phù hợp.
+Việc học bổ sung kiến thức phải hoàn thành trước khi thí sinh nhập học và người học bổ sung kiến thức phải đóng học phí các học phần bổ sung theo mức học phí quy định đối với hệ đại học chính quy của nhà trường.
+8. Cách tính điểm xét tuyển
+Xét tuyển dựa vào kết quả học tập ở bậc đại học. Điểm xét tuyển là điểm trung bình chung tích lũy toàn khóa trên bảng điểm bậc đại học tính theo thang điểm 10.
+Đối với thí sinh học theo tín chỉ ở bậc đại học có điểm trung bình chung tích lũy toàn khóa trên bảng điểm thang điểm 4 được chuyển sang thang điểm 10 theo công thức sau:
+Điểm trung bình chung tích lũy toàn khóa(Thang điểm 10)=Điểm trung bình chung tích lũy toàn khóa(Thang điểm 4)×10/4.
+9. Lệ phí xét tuyển:
+Lệ phí thu, kiểm tra hồ sơ đăng ký, tổ chức xét tuyển: 300.000 đồng/thí sinh.
+Đến thời điểm xét tuyển, nếu thí sinh không đóng lệ phí xét tuyển sẽ không được đưa vào hệ thống xét tuyển, coi như thí sinh từ bỏ việc đăng ký xét tuyển.
+10. Hồ sơ chuẩn bị đăng ký xét tuyển
++ File ảnh chân dung 3x4 chụp không quá 3 tháng;
++ File ảnh Căn cước công dân mặt trước, mặt sau;
++ File ảnh Bằng tốt nghiệp đại học/Chứng nhận tốt nghiệp đại học (chụp từ bản chính có dấu đỏ của Trường cấp bằng);
++ File ảnh Bảng kết quả học tập bậc đại học (chụp bản chính có dấu đỏ của Trường cấp).
+11. Hình thức đào tạo, thời gian đào tạo, bằng tốt nghiệp được cấp
+- Hình thức đào tạo: Chính quy.
+- Thời gian chuẩn theo thiết kế của chương trình đào tạo: 01 năm.
+- Bằng được cấp khi tốt nghiệp: Kỹ sư.
+12. Thông tin liên hệ:
+Văn phòng Tuyển sinh & Học vụ, Phòng 110, Nhà A2, Cở sở 1, Trường Đại học Công nghiệp Hà Nội.
+- Địa chỉ: Số 298, Đường Cầu Diễn, Quận Bắc Từ Liêm, TP Hà Nội.
+- Điện thoại: 024.37655121 (máy lẻ 255, 277).
+- Hotline: 08.3456.0255; 03.8337.1290
+- Website: https://tuyensinh.haui.edu.vn.
+- Fanpage: https://facebook.com/tuyensinh.haui
+        3.2. Tuyển sinh cao đẳng chính quy 2024
+1. Đối tượng và hình thức tuyển sinh
+- Đối tượng tuyển: Học sinh tốt nghiệp THPT hoặc tương đương.
+- Hình thức tuyển sinh: Xét tuyển dựa vào điểm tổng kết 2 môn Toán và Ngữ văn năm lớp 12 trên học bạ ở bậc học THPT.
+- Cách tính Điểm xét tuyển (ĐXT): ĐXT = Toán + Ngữ văn + Điểm ưu tiên (nếu có)
+Trong đó:
++ Toán: Điểm trung bình cả năm môn Toán năm lớp 12 trên học bạ ở bậc THPT;
++ Ngữ văn: Điểm trung bình cả năm môn Ngữ Văn năm lớp 12 trên học bạ ở bậc THPT;
++ Điểm ưu tiên: Điểm ưu tiên của thí sinh (nếu có).
+2. Các ngành, chỉ tiêu tuyển sinh
+Ngành cắt gọt kim loại, mã 650121, chỉ tiêu 150
+Ngành Công nghệ kỹ thuật cơ khí, mã 6510201, chỉ tiêu 150
+Ngành Công nghệ chế tạo máy, mã 6510212, chỉ tiêu 100
+Ngành Công nghệ ô tô, mã 6510216, chỉ tiêu 200
+Ngành Điện công nghiệp, mã 6520227, chỉ tiêu 200
+Ngành Điện tử công nghiệp, mã 6520225, chỉ tiêu 100
+3. Thời gian tuyển sinh
+- Thời gian đăng ký xét tuyển: Dự kiến từ ngày 01/7/2024 đến 19/8/2024 thí sinh đăng ký xét tuyển trực tuyến trên hệ thống đăng ký xét tuyển của Trường: https://xettuyen.haui.edu.vn  và làm theo Hướng dẫn đăng ký xét tuyển
+- Thời gian công bố kết quả xét tuyển: Trước 17h00 ngày 29/8/2024.
+- Thời gian nhập học: Nhập học trực tuyến từ ngày 03/9/2024 đến 15/9/2024.
+4. Lệ phí tuyển sinh
+Lệ phí đăng ký xét tuyển và kiểm tra hồ sơ: 50.000 đồng/hồ sơ.
+5. Hình thức, thời gian đào tạo, bằng tốt nghiệp được cấp
+- Hình thức đào tạo: Chính quy
+- Thời gian đào tạo: 2,5 năm
+- Bằng được cấp khi tốt nghiệp: Cao đẳng
+6. Thông tin liên hệ:
+Văn phòng Tuyển sinh & Học vụ, Phòng 110, Nhà A2, Cở sở 1, Trường Đại học Công nghiệp Hà Nội.
+ - Địa chỉ: Số 298, Đường Cầu Diễn, Quận Bắc Từ Liêm, TP Hà Nội
+ - Điện thoại: 0243.7655121 (máy lẻ 255, 277)
+ - Hotline: 083.456.0255; 03.8337.1290
+ - Website: https://tuyensinh.haui.edu.vn
+ - Fanpage: https://facebook.com/tuyensinh.haui
+        3.3. Đề án tuyển sinh trình độ đại học năm 2024
+(Ban hành kèm theo Quyết định số 342/QĐ-ĐHCN ngày 21 tháng 3 năm 2024)
+I. THÔNG TIN CHUNG 
+1.1. Tên cơ sở đào tạo: TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP HÀ NỘI.
+1.2. Mã trường: DCN.
+1.3. Địa chỉ các trụ sở (trụ sở chính và phân hiệu): Số 298, Đường Cầu Diễn, Quận Bắc Từ Liêm, Thành phố Hà Nội.
+1.4. Địa chỉ trang thông tin điện tử của cơ sở đào tạo: https://haui.edu.vn 
+1.5. Địa chỉ các trang mạng xã hội của cơ sở đào tạo (có thông tin tuyển sinh): https://facebook.com/tuyensinh.haui
+1.6. Số điện thoại liên hệ tuyển sinh: 0243.7655121 máy lẻ 255/277; Hotline: 0834560255.
+1.7. Tình hình việc làm của sinh viên sau khi tốt nghiệp
+Tình hình việc làm của sinh viên sau khi tốt nghiệp được công khai tại: 
+https://tuyensinh.haui.edu.vn/dai-hoc/de-an-tuyen-sinh-dai-hoc
+Kết quả khảo sát sinh viên có việc làm trong khoảng thời gian 12 tháng kể từ khi được công nhận tốt nghiệp được xác định theo từng ngành, lĩnh vực đào tạo, được khảo sát ở năm liền kề trước năm tuyển sinh, đối tượng khảo sát là sinh viên đã tốt nghiệp ở năm trước cách năm tuyển sinh một năm.
+1.8. Thông tin về tuyển sinh chính quy của 2 năm gần nhất
+Thông tin về tuyển sinh chính quy của 2 năm gần nhất được công khai tại: 
+https://tuyensinh.haui.edu.vn/dai-hoc/tuyen-sinh-dai-hoc-chinh-quy
+1.8.1. Phương thức tuyển sinh của 2 năm gần nhất
+- Năm 2022: 
++ Xét tuyển thẳng theo quy chế  tuyển sinh của Bộ GD&ĐT;
++ Xét tuyển dựa trên kết quả thi tốt nghiệp THPT;
++ Xét tuyển thí sinh đoạt giải học sinh giỏi cấp tỉnh/thành phố, thí sinh có chứng chỉ quốc tế;
++ Xét tuyển dựa vào kết quả học tập THPT;
++ Xét tuyển dựa vào kết quả thi đánh giá năng lực của Đại học Quốc gia Hà Nội năm 2022
++ Xét tuyển dựa vào kết quả thi đánh giá tư duy của Đại học Bách khoa Hà Nội năm 2022.
+- Năm 2023: 
++ Xét tuyển thẳng theo quy chế  tuyển sinh của Bộ GD&ĐT;
++ Xét tuyển dựa trên kết quả thi tốt nghiệp THPT;
++ Xét tuyển thí sinh đoạt giải học sinh giỏi cấp tỉnh/thành phố, thí sinh có chứng chỉ quốc tế;
++ Xét tuyển dựa vào kết quả học tập THPT;
++ Xét tuyển dựa vào kết quả thi đánh giá năng lực của Đại học Quốc gia Hà Nội năm 2023
++ Xét tuyển dựa vào kết quả thi đánh giá tư duy của Đại học Bách khoa Hà Nội năm 2023.
+1.10.3.  Danh sách giảng viên:  
+Danh sách giảng viên toàn thời gian tại Phụ lục 2
+Danh sách giảng viên công khai tại:
+https://tuyensinh.haui.edu.vn/dai-hoc/de-an-tuyen-sinh-dai-hoc
+
+1.11. Đề án tuyển sinh công khai tại: https://tuyensinh.haui.edu.vn/dai-hoc/de-an-tuyen-sinh-dai-hoc
+1.12. Quy chế tuyển sinh công khai tại: https://tuyensinh.haui.edu.vn/dai-hoc/quy-che-tuyen-sinh-dai-hoc
+II. TUYỂN SINH ĐÀO TẠO CHÍNH QUY 
+2.1. Tuyển sinh đại học chính quy
+2.1.1. Đối tượng, điều kiện tuyển sinh: Thí sinh tốt nghiệp THPT hoặc tương đương.
+2.1.2. Phạm vi tuyển sinh: Trong nước và quốc tế.
+2.1.3. Phương thức tuyển sinh (thi tuyển, xét tuyển hoặc kết hợp thi tuyển và xét tuyển).
+- Phương thức 1: Xét tuyển thẳng theo quy định của BGD&ĐT.
+- Phương thức 2: Xét tuyển thí sinh đoạt giải học sinh giỏi cấp tỉnh/thành phố, thí sinh có chứng chỉ quốc tế.
+- Phương thức 3: Xét tuyển dựa trên kết quả thi tốt nghiệp THPT năm 2024. 
+- Phương thức 4: Xét tuyển dựa trên kết quả học tập ở bậc học THPT.
+- Phương thức 5: Xét tuyển dựa trên kết quả kỳ thi đánh giá năng lực năm 2024 do Đại học Quốc gia Hà Nội tổ chức.
+- Phương thức 6: Xét tuyển dựa trên kết quả thi đánh kỳ thi giá tư duy năm 2024 do Đại học Bách khoa Hà Nội tổ chức.
+2.1.4. Chỉ tiêu tuyển sinh: Tổng chỉ tiêu 7.650 được phân bổ cho 6 phương thức xét tuyển.
+2.1.4.1. Chỉ tiêu tuyển sinh Phương thức 1
+- Tuyển thẳng đối với thí sinh đủ điều kiện theo quy định tại Thông tư số 08/2022/TT-BGDĐT ngày 06/06/2022 của Bộ trưởng Bộ Giáo dục và Đào tạo, cụ thể: Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc; Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế hoặc thi khoa học, kỹ thuật cấp quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia; Thí sinh đoạt giải nhất, nhì, ba trong các kỳ thi tay nghề khu vực ASEAN và thi tay nghề quốc tế do Bộ Lao động - Thương binh và Xã hội cử đi; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển thẳng.
+- Theo quy định tại Thông tư số 44/2021/TT-BGDĐT ngày 31/12/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo: Nhà trường thống nhất với các trường Dự bị Đại học về chỉ tiêu theo quy chế tuyển sinh, bồi dưỡng dự bị đại học. Dự kiến chỉ tiêu tại Phụ lục 3.
+2.1.5. Ngưỡng đầu vào
+2.1.5.1. Phương thức xét tuyển thẳng theo quy định của Bộ GD&ĐT  và của trường Đại học Công nghiệp Hà Nội (Phương thức 1) 
+- Đối với thí đạt thành tích cao trong các kỳ thi, cuộc thi, giải đấu cấp quốc gia do Bộ GDĐT tổ chức, hoặc cấp quốc tế do Bộ GDĐT cử tham gia khi đăng ký xét tuyển vào các ngành phù hợp thì không phải áp dụng ngưỡng đầu vào.
+- Đối với thí sinh là học sinh hoàn thành dự bị đại học, Nhà trường sẽ thống nhất với các trường Dự bị Đại học về chỉ tiêu và kế hoạch tiếp nhận. Học sinh hoàn thành dự bị đại học khi đăng ký xét tuyển thẳng vào các ngành/chương trình đào tạo Công nghệ đa phương tiện, Công nghệ thông tin, Công nghệ kỹ thuật cơ điện tử, Công nghệ kỹ thuật ô tô, Robot và trí tuệ nhân tạo, Công nghệ kỹ thuật điều khiển và tự động hóa, Hóa dược phải có điểm trung bình chung học tập của từng năm lớp 10, 11, 12 từ  8.0 trở lên.
+2.1.5.2. Phương thức xét tuyển thí sinh đoạt giải học sinh giỏi cấp tỉnh/thành phố, thí sinh có chứng chỉ quốc tế (Phương thức 2)
+- Đối tượng xét tuyển: Thí sinh đoạt giải học sinh giỏi THPT cấp tỉnh/thành phố hoặc có chứng chỉ quốc tế và được công nhận tốt nghiệp THPT hoặc tương đương.
+- Điều kiện đăng ký xét tuyển: Thí sinh được công nhận tốt nghiệp THPT hoặc tương đương và thỏa mãn một trong hai điều kiện sau:
++ Thí sinh đoạt giải Nhất, Nhì, Ba trong kỳ thi học sinh giỏi THPT cấp tỉnh/thành phố các môn Toán, Vật lý, Hóa học, Sinh học, Ngữ văn, Lịch sử, Địa lý, Tin học, Tiếng Anh, Tiếng Trung, Tiếng Nhật, Tiếng Hàn; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển.
++ Thí sinh có một trong các chứng chỉ Quốc tế SAT ≥ 1000; Chứng chỉ tiếng Anh quốc tế  IELTS Academic ≥ 5.5, TOEFL iBT ≥ 50; Chứng chỉ Tiếng Hàn TOPIK cấp độ 3 trở lên; Chứng chỉ tiếng Trung HSK cấp độ 3 trở lên; Chứng chỉ Tiếng Nhật JLPT cấp độ N4 trở lên (Chứng chỉ còn giá trị tính đến ngày đăng ký xét tuyển). Riêng đối với thí sinh xét tuyển vào Chương trình Ngôn ngữ Trung Quốc (Chương trình liên kết đào tạo 2+2 với ĐH Khoa học kỹ thuật Quảng Tây - Trung Quốc) cần có một trong các chứng chỉ Quốc tế SAT ≥ 1000; Chứng chỉ tiếng Anh quốc tế  IELTS Academic ≥ 5.5, TOEFL iBT ≥ 50; Chứng chỉ Tiếng Hàn TOPIK cấp độ 4 trở lên; Chứng chỉ tiếng Trung HSK cấp độ 4 trở lên; Chứng chỉ Tiếng Nhật JLPT cấp độ N3 trở lên (Chứng chỉ còn giá trị tính đến ngày đăng ký xét tuyển)
+2.1.5.3. Phương thức xét tuyển dựa trên kết quả thi tốt nghiệp THPT năm 2024 (Phương thức 3): Điểm điều kiện đăng ký xét tuyển được công bố sau khi có kết quả thi tốt nghiệp THPT 2024.
+2.1.5.4. Phương thức xét tuyển dựa trên kết quả học tập ở bậc học THPT (Phương thức 4)
+- Đối tượng xét tuyển: Thí sinh được công nhận tốt nghiệp THPT.
+- Điều kiện đăng ký xét tuyển:
++ Đối với  thí sinh tốt nghiệp năm 2024: điểm tổng kết của từng môn học trong tổ hợp đăng ký xét tuyển cả năm lớp 10, 11 và học kỳ 1 năm lớp 12 từ 7,5 điểm trở lên.
++ Đối với  thí sinh tốt nghiệp từ năm 2023 trở về trước: điểm tổng kết của từng môn học trong tổ hợp đăng ký xét tuyển cả năm lớp 10, 11 và 12 từ 7,5 điểm trở lên.
+2.1.5.5. Phương thức xét tuyển dựa trên kết quả kỳ thi đánh giá năng lực năm 2024 do Đại học Quốc gia Hà Nội tổ chức (Phương thức 5)
+- Đối tượng xét tuyển: Thí sinh có kết quả kỳ thi đánh giá năng lực năm 2024 do Đại học Quốc gia Hà Nội tổ chức và được công nhận tốt nghiệp THPT hoặc tương đương.
+- Điều kiện đăng ký xét tuyển: Thí sinh có tổng điểm thi đánh giá năng lực năm 2024 do Đại học Quốc gia Hà Nội tổ chức đạt từ 75 điểm trở lên.
+2.1.5.6. Phương xét tuyển dựa trên kết quả kỳ thi đánh giá tư duy năm 2024 do Đại học Bách khoa Hà Nội tổ chức (Phương thức 6)
+- Đối tượng xét tuyển: Thí sinh có kết quả kỳ thi đánh giá tư duy năm 2024 do Đại học Bách Khoa Hà Nội tổ chức và được công nhận tốt nghiệp THPT hoặc tương đương.
+- Điều kiện đăng ký xét tuyển: Thí sinh có tổng điểm thi đánh giá tư duy năm 2024 do Đại học Bách Khoa Hà Nội tổ chức đạt từ 50 điểm trở lên.
+2.1.6. Các thông tin cần thiết khác để thí sinh dự tuyển vào các ngành của trường (mã trường, mã ngành/ nhóm ngành xét tuyển, mã phương thức xét tuyển, tổ hợp xét tuyển và quy định chênh lệch điểm xét tuyển giữa các tổ hợp;các điều kiện phụ sử dụng trong xét tuyển):
+2.1.6.1. Phương thức xét tuyển thẳng theo quy định của BGD&ĐT (Phương thức 1):
+- Theo quy định tại Thông tư số 08/2022/TT-BGDĐT ngày 06/06/2022 của Bộ trưởng Bộ Giáo dục và Đào tạo, cụ thể: Anh hùng lao động, Anh hùng lực lượng vũ trang nhân dân, Chiến sĩ thi đua toàn quốc; Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế hoặc thi khoa học, kỹ thuật cấp quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia; Thí sinh đoạt giải nhất, nhì, ba trong các kỳ thi tay nghề khu vực ASEAN và thi tay nghề quốc tế do Bộ Lao động - Thương binh và Xã hội cử đi; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển thẳng.
+- Cách tính điểm xét tuyển (ĐXT):
++ Điểm xét tuyển theo thang điểm 30 làm tròn đến hai chữ số thập phân. Điểm xét tuyển được tính như sau: 
+ĐXT =M1 × 2 + M2 + Điểm ưu tiên (nếu có).
+Trong đó: 
+M1: Điểm quy đổi chứng chỉ hoặc giải thí sinh đoạt được (theo Bảng quy đổi điểm Chứng chỉ quốc tế và Giải học sinh giỏi THPT cấp tỉnh/thành phố sang thang điểm 10).
+M2: Trung bình cộng điểm tổng kết cả năm lớp 10, 11 và học kỳ 1 năm lớp 12 (cả năm lớp 10, 11, 12 đối với thí sinh tốt nghiệp từ năm 2023 trở về trước) của các môn học trong tổ hợp đăng ký xét tuyển theo thang điểm 10 làm tròn đến hai chữ số thập phân.
+* Ví dụ: Thí sinh tốt nghiệp năm 2024 đăng ký xét tuyển vào ngành có tổ hợp xét tuyển A00 (Toán, Vật lý, Hóa học) được tính điểm M2 như sau:
+M2 = (Toán cả năm lớp 10 + Toán cả năm lớp 11+ Toán học kỳ 1 lớp 12 + Vật lý cả năm lớp 10 + Vật lý cả năm lớp 11+ Vật lý học kỳ 1 lớp 12 + Hóa học cả năm lớp 10 + Hóa học cả năm lớp 11+ Hóa học học kỳ 1 lớp 12)/9
+Điểm ưu tiên: Bao gồm điểm ưu tiên khu vực và điểm ưu tiên đối tượng theo Quy chế tuyển sinh của Bộ GD&ĐT và của Nhà trường.
++ Đối với các thí sinh có ĐXT bằng điểm chuẩn mà số lượng thí sinh đủ điều kiện trúng tuyển lớn hơn chỉ tiêu thì ưu tiên theo thứ tự nguyện vọng. 
++ Điểm chênh lệch giữa các tổ hợp: bằng 0
+- Cách tính điểm xét tuyển (ĐXT):
++ Điểm xét tuyển theo thang điểm 30 làm tròn đến hai chữ số thập phân. Điểm xét tuyển được tính như sau:
+* Đối với tổ hợp môn xét tuyển các môn không nhân hệ số:  
+ĐXT = M1 + M2 + M3 + Điểm ưu tiên (nếu có)
+Trong đó: M1, M2, M3 là kết quả điểm thi tốt nghiệp THPT năm 2024 của các môn thi thuộc tổ hợp môn xét tuyển.
+Điểm ưu tiên: Bao gồm điểm ưu tiên khu vực và điểm ưu tiên đối tượng theo Quy chế tuyển sinh của Bộ GD&ĐT và của Nhà trường. 
+* Đối với tổ hợp môn xét tuyển có môn nhân hệ số (áp dụng cho các ngành ngôn ngữ): ĐXT = (Điểm Toán + Điểm Ngữ văn + (Điểm Ngoại ngữ  2)) × 3/4 + Điểm ưu tiên (nếu có)
++ Điểm chênh lệch giữa các tổ hợp: bằng 0.
+- Cách tính điểm xét tuyển (ĐXT):
++ Điểm xét tuyển theo thang điểm 30 làm tròn đến hai chữ số thập phân. Điểm xét tuyển được tính như sau:
+* Đối với tổ hợp môn xét tuyển các môn không nhân hệ số:  
+ĐXT = M1 + M2 + M3 + Điểm ưu tiên (nếu có)
+* Đối với tổ hợp môn xét tuyển có môn nhân hệ số (áp dụng cho các ngành ngôn ngữ):
+ĐXT = (Điểm Toán + Điểm Ngữ văn + (Điểm Ngoại ngữ x 2)) × 3/4 + Điểm ưu tiên (nếu có)
+Trong đó: M1, M2, M3: Trung bình cộng điểm tổng kết cả năm lớp 10, 11 và học kỳ 1 năm lớp 12 (cả năm lớp 10, 11, 12 đối với thí sinh tốt nghiệp từ năm 2023 trở về trước) của các môn học trong tổ hợp đăng ký xét tuyển theo thang điểm 10; ĐXT làm tròn đến hai chữ số thập phân.
+* Ví dụ: Thí sinh tốt nghiệp năm 2024 đăng ký xét tuyển theo tổ hợp xét tuyển A00 (Toán, Vật lý, Hóa học) được tính điểm M1, M2, M3 như sau:
+M1 = (Toán cả năm lớp 10 + Toán cả năm lớp 11+ Toán học kỳ 1 lớp 12)/3 
+M2 = (Vật lý cả năm lớp 10 + Vật lý cả năm lớp 11+ Vật lý học kỳ 1 lớp 12)/3 
+M3 = (Hóa học cả năm lớp 10 + Hóa học cả năm lớp 11+ Hóa học học kỳ 1 lớp 12)/3
+Điểm ưu tiên: Bao gồm điểm ưu tiên khu vực và điểm ưu tiên đối tượng theo Quy chế tuyển sinh của Bộ GD&ĐT và của Nhà trường. 
++ Điểm chênh lệch giữa các tổ hợp: bằng 0
++ Đối với các thí sinh có ĐXT bằng điểm chuẩn mà số lượng thí sinh đủ điều kiện trúng tuyển lớn hơn chỉ tiêu thì ưu tiên theo tiêu chí phụ là thứ tự nguyện vọng
+- Cách tính điểm xét tuyển (ĐXT):
++ Điểm xét tuyển theo thang điểm 30 làm tròn đến hai chữ số thập phân. Điểm xét tuyển được tính như sau: 
+ĐXT = Tổng điểm thi ×30/150 + Điểm ưu tiên (nếu có)
+Điểm ưu tiên gồm điểm ưu tiên khu vực và điểm ưu tiên đối tượng theo Quy chế tuyển sinh của Bộ GD&ĐT và của Nhà trường. 
++ Đối với các thí sinh có ĐXT bằng điểm chuẩn mà số lượng thí sinh đủ điều kiện trúng tuyển lớn hơn chỉ tiêu thì ưu tiên theo tiêu chí phụ là thứ tự nguyện vọng.
+	- Cách tính điểm xét tuyển (ĐXT):
++ Điểm xét tuyển theo thang điểm 30 làm tròn đến hai chữ số thập phân. Điểm xét tuyển được tính như sau: 
+ĐXT = Tổng điểm thi ×30/100 + Điểm ưu tiên (nếu có)
+Điểm ưu tiên gồm điểm ưu tiên khu vực và điểm ưu tiên đối tượng theo Quy chế tuyển sinh của Bộ GD&ĐT và của Nhà trường. 
++ Đối với các thí sinh có ĐXT bằng điểm chuẩn mà số lượng thí sinh đủ điều kiện trúng tuyển lớn hơn chỉ tiêu thì ưu tiên theo tiêu chí phụ là thứ tự nguyện vọng.
+2.1.7. Tổ chức tuyển sinh: Thời gian; hình thức, điều kiện nhận hồ sơ dự tuyển/thi tuyển; các điều kiện xét tuyển/thi tuyển.
+2.1.7.1. Thời gian, hình thức xét tuyển
+2.1.7.1.1. Đối với phương thức xét tuyển thẳng theo quy định của Bộ Giáo dục và Đào tạo (Phương thức 1)
+- Thời gian nộp hồ sơ: Từ ngày 20/4/2024 đến trước 17h00 ngày 22/6/2024.
+- Hình thức đăng ký xét tuyển (ĐKXT): Thí sinh nộp hồ sơ ĐKXT tại Trường Đại học Công nghiệp Hà Nội, mẫu hồ sơ theo quy định của Bộ GD&ĐT.
+- Thời gian công bố kết quả xét tuyển thẳng: Trước 17h00 ngày 23/06/2024.
+2.1.7.1.2. Đối với các phương thức xét tuyển sớm (Phương thức 2,4,5,6)
+- Thời gian đăng ký xét tuyển: Từ ngày 20/04/2024 đến 17h00 ngày 05/06/2024
+- Hình thức đăng ký xét tuyển: Trực tuyến trên hệ thống xét tuyển của Trường Đại học Công nghiệp Hà Nội.
+- Thời gian công bố thí sinh đủ điều kiện trúng tuyển: Trước 17h00 ngày 23/06/2024.
+Lưu ý: Thí sinh đủ điều kiện trúng tuyển cần đăng ký nguyện vọng xét tuyển trên Cổng thông tin tuyển sinh của Bộ GD&ĐT từ ngày 10/07/2024 đến 17h00 ngày 25/07/2024.
+
+2.1.7.1.3. Đối với phương thức xét tuyển dựa trên kết quả thi tốt nghiệp THPT năm 2024 (Phương thức 3)
+- Thời gian đăng ký xét tuyển: Từ ngày 10/07/2024 đến 17h00 ngày 25/07/2024.
+- Hình thức ĐKXT: Thí sinh đăng ký nguyện vọng xét tuyển trực tuyến trên Cổng thông tin tuyển sinh của Bộ GD&ĐT.
+- Thời gian công bố kết quả tuyển sinh: Trước 17h00 ngày 12/08/2024.
+2.1.7.2. Nguyên tắc xét tuyển
+- Thí sinh được ĐKXT không giới hạn số nguyện vọng, thí sinh chỉ đủ điều kiện trúng tuyển vào 1 nguyện vọng ưu tiên cao nhất trong danh sách các nguyện vọng đã đăng ký trên hệ thống xét tuyển. 
+- Xét tuyển theo ngành, lấy điểm từ cao xuống thấp cho đến khi hết chỉ tiêu, không phân biệt thứ tự nguyện vọng giữa các thí sinh.
+- Trường hợp số thí sinh đủ điều kiện trúng tuyển không đạt chỉ tiêu của một phương thức theo một ngành/chương trình đào tạo, số chỉ tiêu còn lại của phương thức đó chuyển sang phương thức xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2024 (Phương thức 3).
+2.1.8. Chính sách ưu tiên: 
+2.1.8.1.Xét tuyển thẳng: Theo phương thức 1.
+2.1.8.2. Ưu tiên xét tuyển: Theo quy chế Tuyển sinh của Bộ GD&ĐT.
+2.1.9. Lệ phí xét tuyển/thi tuyển.
++ Lệ phí thu, kiểm tra, xử lý hồ sơ đăng ký xét tuyển đại học chính quy tại Trường Đại học Công nghiệp Hà Nội: 50.000 đồng/thí sinh (đối với thí sinh đăng ký xét tuyển theo các phương thức tuyển sinh 2, 4, 5, 6).
+Sau khi đóng lệ phí xét tuyển thí sinh kiểm tra lại để chắc chắn đã đóng lệ phí đúng quy định và upload ảnh minh chứng đã đóng lệ phí xét tuyển lên hệ thống để được thông báo ghi nhận thí sinh đã hoàn thành đóng lệ phí. Đến thời điểm xét tuyển, nếu thí sinh không đóng lệ phí xét tuyển hoặc thực hiện không đúng dẫn đến hệ thống chưa ghi nhận đã đóng lệ phí xét tuyển sẽ không được đưa vào hệ thống xét tuyển, coi như thí sinh từ bỏ việc đăng ký xét tuyển.
++ Lệ phí đăng ký xét tuyển và xử lý nguyện vọng trên Cổng thông tin của Bộ GD&ĐT hoặc dịch vụ công quốc gia thực hiện theo hướng dẫn của Bộ GD&ĐT.
+2.1.10. Học phí dự kiến với sinh viên chính quy; lộ trình tăng học phí tối đa cho từng năm (nếu có).
+- Học phí bình quân các ngành/chương trình đào tạo tuyển sinh trong năm học 2024-2025 là 24,6 triệu đồng/năm học (Học phí thực tế trong từng học kỳ phụ thuộc số tín chỉ sinh viên đăng ký học trong học kỳ, đơn giá học phí năm học 2024-2025 là 500.000 đồng/tín chỉ).
+- Học phí các năm học tiếp theo: Tăng bình quân không quá 10% /năm học.
+2.1.11. Thời gian dự kiến tuyển sinh các đợt trong năm.
+Đợt 1: Tháng 4-9/2024;	Đợt 2: Tháng 10-12/2024 (nếu có).
+2.1.12. Việc CSĐT thực hiện các cam kết đối với thí sinh giải quyết khiếu nại, bảo vệ quyền lợi chính đáng của thí sinh trong những trường hợp rủi ro.
+Trường Đại học Công nghiệp cam kết bảo vệ quyền lợi chính đáng của thí sinh trong những trường hợp rủi ro (nếu có) theo quy chế tuyển sinh của Bộ GD&ĐT và của Nhà trường.
+a) Về đăng ký nguyện vọng xét tuyển và lệ phí xét tuyển:
+- Trường hợp thí sinh trúng tuyển có điều kiện theo phương thức xét tuyển sớm của Nhà trường nhưng không đăng ký nguyện vọng trên hệ thống của Bộ GD&ĐT được coi như thí sinh từ bỏ kết quả đủ điều kiện trúng tuyển sớm của Trường Đại học Công nghiệp Hà Nội và không được hệ thống đưa vào dữ liệu xét tuyển.
+- Trường hợp thí sinh không đóng lệ phí xét tuyển tuyển hoặc thực hiện không đúng dẫn đến hệ thống chưa ghi nhận đã đóng lệ phí xét tuyển đến thời điểm xét tuyển coi như thí sinh từ chối việc đăng ký xét tuyển và không được hệ thống đưa vào dữ liệu xét tuyển.
+b) Về khai báo thông tin:
+Nếu thí sinh khai báo không chính xác thông tin, dữ liệu trên hệ thống đăng ký xét tuyển của Trường Đại học Công nghiệp Hà Nội, được xử lý như sau:
+- Làm ảnh hưởng đến kết quả xét tuyển sớm từ không đủ điều kiện trúng tuyển thành đủ điều kiện trúng tuyển được coi như thí sinh đã vi phạm quy chế tuyển sinh và bị hủy kết quả xét tuyển.
+- Làm ảnh hưởng đến kết quả xét tuyển sớm từ đủ điều kiện trúng tuyển thành không đủ điều kiện trúng tuyển, thí sinh được làm đơn đề nghị cập nhật thông tin và gửi về Trường Đại học Công nghiệp Hà Nội trước ngày 28/6/2024 để Hội đồng tuyển sinh Nhà trường xem xét công nhận kết quả xét tuyển. Nếu sau ngày 28/6/2024 thí sinh không nộp đơn đề nghị cập nhật thông tin về Nhà trường coi như thí sinh từ bỏ nguyện vọng và bị hủy kết quả xét tuyển.
+- Không ảnh hưởng đến điều kiện trúng tuyển sớm, thí sinh được làm đơn đề nghị cập nhật thông tin và gửi về Trường Đại học Công nghiệp Hà Nội trước ngày 28/6/2024 để Hội đồng tuyển sinh Nhà trường xem xét công nhận kết quả xét tuyển
+c) Về xét tuyển:
+	Trường hợp thí sinh nhận thấy kết xét tuyển của mình chưa chính xác, thí sinh được làm đơn đề nghị cập nhật kết quả xét tuyển và gửi về Trường Đại học Công nghiệp Hà Nội để Nhà trường phối hợp với các cơ sở giáo dục và các cơ quan quản lý có liên quan xem xét bảo vệ quyền lợi chính đáng của thí sinh.
+d) Về nhập học:
+Thí sinh trúng tuyển đã xác nhận nhập học nhưng nhập học muộn quá thời gian quy định theo thông báo của Trường Đại học Công nghiệp Hà Nội, được xử lý như sau:
+- Trường hợp có lý do chính đáng được Nhà trường chấp nhận cho nhập học bổ sung nếu có đơn xin nhập học muộn và có minh chứng cho lý do chính đáng.
+- Trường hợp không có lý do chính đáng coi như thí sinh từ chối việc nhập học và không được chấp nhận nhập học bổ sung.
+2.1.13. Thông tin tuyển sinh các ngành đào tạo đặc thù có nhu cầu cao về nhân lực trình độ đại học đáp ứng yêu cầu phát triển kinh tế - xã hội của đất nước.
+2.1.13.1. Thông tin về doanh nghiệp hợp tác đào tạo 
+Đường link: https://dhcnhn.vn/htdn/admin.aspx?modul=thongtindoanhnghiep&ctr=report 
+2.1.13.2. Các thông tin triển khai áp dụng cơ chế đào tạo đặc thù có nhu cầu cao về nhân lực trình độ đại học 
+2.1.14. Tài chính:
+2.1.14.1. Tổng nguồn thu hợp pháp/năm của trường: 676.385 triệu đồng.
+2.1.14.2. Tổng chi phí đào tạo trung bình 1 sinh viên/năm của năm liền trước năm tuyển sinh (năm 2023):  20 triệu đồng/ năm học.
+2.1.15. Văn bằng được cấp khi tốt nghiệp: 
+Người tốt nghiệp chương trình đào tạo với thời gian đào tạo chuẩn 4 năm được cấp bằng cử nhân.
+Người tốt nghiệp chương trình đào tạo trình độ đại học (bằng cử nhân) có thể dự tuyển theo học các chương trình đào tạo chuyên sâu đặc thù lấy bằng kỹ sư theo thông báo tuyển sinh riêng của Trường.
+Thí sinh trúng tuyển vào Chương trình Ngôn ngữ Trung Quốc (liên kết đào tạo 2+2 với Đại học Khoa học kỹ thuật Quảng Tây - Trung Quốc) sẽ học 2 năm đầu tại Trường Đại học Công nghiệp Hà Nội và 2 năm cuối tại trường Đại học Khoa học Kỹ thuật Quảng Tây - Trung Quốc, sau khi hoàn thành chương trình liên kết đào tạo và đủ điều kiện tốt nghiệp sẽ được cấp bằng cử nhân Ngôn ngữ Trung Quốc do Trường Đại học Công nghiệp Hà nội cấp và bằng cử nhân Hán ngữ đối ngoại (Hán ngữ giáo dục quốc tế) do trường Đại học Khoa học Kỹ thuật Quảng Tây - Trung Quốc cấp. Đối với thí sinh trúng tuyển vào Chương trình Ngôn ngữ Trung Quốc (liên kết đào tạo 2+2 với Đại học Khoa học kỹ thuật Quảng Tây - Trung Quốc) bằng các phương thức xét tuyển không sử dụng chứng chỉ năng lực ngoại ngữ sẽ được Trường Đại học Công nghiệp Hà Nội tổ chức đánh giá năng lực ngoại ngữ sau khi nhập học, trường hợp chưa đạt năng lực ngoại ngữ tối thiểu bậc 4  trở lên theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam được Nhà trường tổ chức đào tạo bồi dưỡng để đạt được yêu cầu ngoại ngữ trước khi vào học chính khóa.
+2.1.16. Chính sách học bổng: 
+a) Học bổng đầu vào HaUI 
+(i) Mức 1: Học bổng 100% học phí toàn khóa (Khoảng 100 triệu đồng/suất)
+* Số lượng dự kiến: Không hạn chế số lượng.
+* Đối tượng và tiêu chí xét học bổng: 
+Thí sinh nhập học Trường Đại học Công nghiệp Hà Nội năm 2024 thỏa mãn ít nhất một trong các tiêu chí sau:
+- Đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia, quốc tế hoặc thi khoa học, kỹ thuật cấp quốc gia, quốc tế do Bộ GDĐT tổ chức, cử tham gia; Thí sinh đoạt giải nhất, nhì, ba trong các kỳ thi tay nghề khu vực ASEAN và thi tay nghề quốc tế do Bộ Lao động - Thương binh và Xã hội cử đi (thời gian đoạt giải không quá 3 năm tính đến thời gian đăng ký xét tuyển).
+- Thủ khoa của 4 nhóm tổ hợp xét tuyển theo phương thức 3: (A00); (A01); (D01); (B00, C00, D04, D06, D07, D14, D15, DD2).
+- Thủ khoa của mỗi phương thức xét tuyển 2, 4, 5, 6.
+(ii) Mức 2: Học bổng 100% học phí năm thứ nhất (Khoảng 25 triệu đồng/suất)
+* Số lượng dự kiến: 24 suất
+* Đối tượng và tiêu chí xét học bổng: Thí sinh nhập học Trường Đại học Công nghiệp Hà Nội năm 2024 không thuộc đối tượng nhận học bổng mức 1, xét theo điểm xét tuyển từ cao xuống thấp được phân bổ chỉ tiêu cho các phương thức như sau: 
++ Phương thức 2: 03 suất.
++ Phương thức 3: 12 suất.
++ Phương thức 4: 03 suất.
++ Phương thức 5: 03 suất.
++ Phương thức 6: 03 suất.
+(iii) Mức 3: Học bổng 5 triệu đồng/suất
+* Số lượng dự kiến: 96 suất
+* Đối tượng và tiêu chí xét học bổng: Thí sinh nhập học Trường Đại học Công nghiệp Hà Nội năm 2024 không thuộc đối tượng nhận học bổng mức 1&2, xét theo điểm xét tuyển từ cao xuống thấp được phân bổ chỉ tiêu cho các phương thức như sau: 
++ Phương thức 2: 12 suất
++ Phương thức 3: 48 suất
++ Phương thức 4: 12 suất
++ Phương thức 5: 12 suất
++ Phương thức 6: 12 suất
+(iv) Quy định chung về việc áp dụng học bổng đầu vào
+- Học bổng đầu vào được phân bổ theo từng học kỳ và chỉ có giá trị áp dụng cho thí sinh nhập học tại Trường Đại học Công nghiệp Hà Nội 2024, không có giá trị bảo lưu và không quy đổi thành tiền mặt hoặc chuyển nhượng vì bất kỳ lý do nào.
+- Nếu tại thời điểm xét học bổng có nhiều thí sinh thỏa mãn cùng tiêu chí đánh giá hoặc loại học bổng thì căn cứ vào số lượng tiêu chí thỏa mãn, ưu tiên thứ tự nguyện vọng Trường Đại học Công nghiệp Hà Nội là số 1 trên hệ thống xét tuyển chung của Bộ Giáo dục và Đào tạo.
+- Nếu thí sinh đạt nhiều loại học bổng khác nhau (tại thời điểm xét) thì ưu tiên nhận mức học bổng cao nhất.
+- Điều kiện duy trì học bổng đầu vào: Sinh viên cần đăng ký đủ khối lượng học tập tối thiểu ở mỗi học kỳ chính, có kết quả rèn luyện đạt loại tốt và có điểm trung bình chung tích lũy của học kỳ đạt từ 2.5/4.0 điểm trở lên để duy trì học bổng.
+- Trường Đại học Đại học Công nghiệp Hà Nội có quyền đưa ra toàn bộ quyết định cuối cùng liên quan đến chương trình học bổng đầu vào: ngừng cấp hoặc thu hồi học bổng đối với sinh viên không tiếp tục chương trình học, không đáp ứng được điều kiện duy trì học bổng, bị đình chỉ học tập, vi phạm pháp luật, vi phạm nội quy Nhà trường.
+b) Học bổng khuyến khích học tập: 
+Dành cho sinh viên đại học chính quy đạt kết quả cao trong học tập và rèn luyện trong học kỳ (không tính sinh viên đã nhận học bổng đầu vào HaUI).
+c) Học bổng khuyến học Nguyễn Thanh Bình: 
+Dành cho sinh viên đại học chính quy có hoàn cảnh khó khăn đạt yêu cầu về kết quả học tập, rèn luyện mà không thuộc đối tượng được hưởng chính sách miễn, giảm học phí của nhà nước.
+d) Học bổng tài trợ của các doanh nghiệp: Dành cho sinh viên đáp ứng được các tiêu chí, yêu cầu của nhà tài trợ.
+2.2. Tuyển sinh đào tạo đại học chính quy với đối tượng tốt nghiệp từ cao đẳng trở lên (Liên thông từ cao đẳng lên đại học)
+2.2.1. Đối tượng, điều kiện tuyển sinh: Tốt nghiệp cao đẳng ngành đúng hoặc ngành phù hợp theo quy định của Bộ GD&ĐT, Bộ LĐTB&XH.
+2.2.2. Phạm vi tuyển sinh: Toàn quốc.
+2.2.3. Phương thức tuyển sinh: Xét tuyển dựa vào kết quả học tập ở bậc cao đẳng. 
+2.2.4. Chỉ tiêu tuyển sinh: Chỉ tiêu theo ngành, theo từng phương thức xét tuyển và trình độ đào tạo.
+2.2.5. Ngưỡng đầu vào 
+Thí sinh được công nhận tốt nghiệp cao đẳng đúng ngành hoặc ngành phù hợp với ngành đăng ký xét tuyển và điểm đánh giá xếp loại tốt nghiệp ở bậc cao đẳng từ 5.0 trở lên tính theo thang điểm 10, từ 2.0 trở lên theo thang điểm 4.
+2.2.6. Các thông tin cần thiết khác để thí sinh dự tuyển vào các ngành của trường.
+2.2.7. Tổ chức tuyển sinh: 
+- Thời gian đăng ký xét tuyển: Từ 06/5/2024 đến 17h00 ngày 09/6/2024.
+- Hình thức đăng ký xét tuyển: Trực tuyến trên https://tuyensinh.haui.edu.vn
+- Xét tuyển dựa vào kết quả học tập ở bậc cao đẳng. Điểm xét tuyển là điểm đánh giá xếp loại tốt nghiệp trên bảng điểm bậc cao đẳng tính theo thang điểm 10.
+Đối với thí sinh học theo tín chỉ ở bậc cao đẳng có điểm đánh giá xếp loại tốt nghiệp thang điểm 4, phải nộp bổ sung bảng điểm thang điểm 10 có xác nhận của cơ sở đào tạo. Trường hợp thí sinh không nộp bổ sung bảng điểm thang điểm 10, điểm đánh giá xếp loại tốt nghiệp ở thang điểm 4 của thí sinh sẽ được chuyển sang thang điểm 10 theo công thức sau: 
+Điểm đánh giá xếp loại tốt nghiệp (Thang điểm 10) = Điểm đánh giá xếp loại tốt nghiệp (Thang điểm 4)  10 / 4.
+- Xét tuyển theo Điểm xét tuyển từ cao xuống thấp cho đến hết số lượng theo chỉ tiêu của ngành xét tuyển.
+- Thời gian công bố thí sinh trúng tuyển: Trước 17h00 ngày 12/06/2024.
+2.2.8. Lệ phí xét tuyển: 
+Lệ phí thu, kiểm tra hồ sơ đăng ký, tổ chức xét tuyển liên thông lên trình độ đại học: 300.000 đồng/thí sinh. Đến thời điểm xét tuyển, nếu thí sinh không đóng lệ phí xét tuyển hoặc thực hiện không đúng dẫn đến hệ thống chưa ghi nhận đã đóng lệ phí xét tuyển sẽ không được đưa vào hệ thống xét tuyển, coi như thí sinh từ bỏ việc đăng ký xét tuyển.
+2.2.9. Học phí dự kiến với sinh viên; lộ trình tăng học phí tối đa cho từng năm (nếu có).
+- Học phí bình quân các ngành/chương trình đào tạo tuyển sinh trong năm học 2024-2025 là 24,6 triệu đồng/năm học (Học phí thực tế trong từng học kỳ phụ thuộc số tín chỉ sinh viên đăng ký học trong học kỳ, đơn giá học phí năm học 2024-2025 là 500.000 đồng/tín chỉ).
+- Học phí các năm học tiếp theo: Tăng bình quân không quá 10% /năm học.
+2.3. Tuyển sinh chương trình đào tạo chuyên sâu đặc thù tương đương bậc 7 - Kỹ sư
+2.3.1. Đối tượng, điều kiện tuyển sinh: Thí sinh được công nhận tốt nghiệp đại học (cấp bằng cử nhân), thuộc cùng nhóm ngành đào tạo với ngành/chương trình đào tạo đăng ký dự tuyển.
+2.3.2. Phạm vi tuyển sinh: Toàn quốc
+2.3.3. Phương thức tuyển sinh: Xét tuyển dựa vào kết quả học tập ở chương trình đào tạo đại học. 
+2.3.5. Ngưỡng đầu vào: Điểm trung bình chung tích lũy toàn khóa ở bậc đại học đạt từ 5.0 trở lên tính theo thang điểm 10, từ 2.0 trở lên theo thang điểm 4.
+2.3.6. Tổ chức tuyển sinh: 
+- Thời gian đăng ký xét tuyển: Từ ngày 15/6/2024 đến 17h00 ngày 20/7/2024.
+- Hình thức đăng ký xét tuyển: Trực tuyến trên https://tuyensinh.haui.edu.vn
+- Xét tuyển dựa vào kết quả học tập ở bậc đại học. Điểm xét tuyển là điểm trung bình chung tích lũy toàn khóa trên bảng điểm bậc đại học tính theo thang điểm 10.
+Đối với thí sinh học theo tín chỉ ở bậc đại học có điểm trung bình chung tích lũy toàn khóa trên bảng điểm thang điểm 4, phải nộp bổ sung bảng điểm thang điểm 10 có xác nhận của cơ sở đào tạo. Trường hợp thí sinh không nộp bổ sung bảng điểm thang điểm 10, điểm trung bình chung tích lũy toàn khóa ở thang điểm 4 của thí sinh sẽ được chuyển sang thang điểm 10 theo công thức sau: 
+Điểm trung bình chung tích lũy toàn khóa(Thang điểm 10)=Điểm trung bình chung tích lũy toàn khóa(Thang điểm 4)10/4.
+- Xét tuyển theo Điểm xét tuyển từ cao xuống thấp cho đến hết số lượng theo chỉ tiêu của ngành xét tuyển.
+- Thời gian công bố thí sinh trúng tuyển: Trước 17h00 ngày 23/07/2024.
+2.3.7. Lệ phí xét tuyển: 
+Lệ phí thu, kiểm tra hồ sơ đăng ký, tổ chức xét tuyển chương trình đào tạo chuyên sâu đặc thù Bậc 7 - Kỹ sư: 300.000 đồng/thí sinh. Đến thời điểm xét tuyển, nếu thí sinh không đóng lệ phí xét tuyển hoặc thực hiện không đúng dẫn đến hệ thống chưa ghi nhận đã đóng lệ phí xét tuyển sẽ không được đưa vào hệ thống xét tuyển, coi như thí sinh từ bỏ việc đăng ký xét tuyển.
+2.3.9. Học phí dự kiến với sinh viên; lộ trình tăng học phí tối đa cho từng năm (nếu có).
+- Học phí bình quân các ngành/chương trình đào tạo tuyển sinh trong năm học 2024-2025 là 24,6 triệu đồng/năm học (Học phí thực tế trong từng học kỳ phụ thuộc số tín chỉ sinh viên đăng ký học trong học kỳ, đơn giá học phí năm học 2024-2025 là 500.000 đồng/tín chỉ).
+- Học phí các năm học tiếp theo: Tăng bình quân không quá 10% /năm học.
+III. TUYỂN SINH ĐÀO TẠO VỪA HỌC VỪA LÀM: 
+Đường link công khai tuyển sinh đào tạo vừa học vừa làm trên trang thông tin điện tử của CSĐT: 
+https://tuyensinh.haui.edu.vn/dai-hoc/de-an-tuyen-sinh-dai-hoc
+3.1. Đối tượng, điều kiện tuyển sinh: Tốt nghiệp THPT hoặc tương đương; tốt nghiệp cao đẳng, đại học.
+3.2. Phạm vi tuyển sinh: Toàn quốc.
+3.3. Phương thức tuyển sinh: Xét tuyển dựa trên điểm tổng kết học bạ năm lớp 12, các tổ hợp môn xét tuyển như tổ hợp môn xét tuyển của ngành tương ứng hình thức đại học chính quy.
+3.4. Chỉ tiêu tuyển sinh: Chỉ tiêu theo ngành/CTĐT, theo từng phương thức xét tuyển và trình độ đào tạo.
+3.5. Ngưỡng đầu vào:
+Thí sinh có tổng điểm trung bình cả năm lớp 12 của 3 môn học trong tổ hợp xét tuyển từ 15 điểm trở lên.
+3.6. Các thông tin cần thiết khác để thí sinh dự tuyển vào các ngành của trường. 
+3.7. Tổ chức tuyển sinh: 
+- Thời gian đăng ký xét tuyển: Từ tháng 3/2024 đến tháng 12/2024.
+- Hình thức đăng ký xét tuyển: Trực tuyến trên http://tuyensinh.haui.edu.vn.
+3.8. Chính sách ưu tiên: 
+- Ưu tiên đối với thí sinh đã tốt nghiệp đại học ngành khác.
+- Ưu tiên xét tuyển theo quy định của Bộ GD&ĐT.
+3.9. Lệ phí xét tuyển/thi tuyển: 300.000 đồng/thí sinh. Đến thời điểm xét tuyển, nếu thí sinh không đóng lệ phí xét tuyển hoặc thực hiện không đúng dẫn đến hệ thống chưa ghi nhận đã đóng lệ phí xét tuyển sẽ không được đưa vào hệ thống xét tuyển, coi như thí sinh từ bỏ việc đăng ký xét tuyển.
+3.10. Học phí dự kiến với sinh viên; lộ trình tăng học phí tối đa cho từng năm (nếu có):
+- Học phí bình quân các ngành/chương trình đào tạo tuyển sinh trong năm học 2024-2025 là 24,6 triệu đồng/năm học. Học phí thực tế trong từng học kỳ phụ thuộc số tín chỉ sinh viên đăng ký học trong học kỳ, đơn giá học phí năm học 2024-2025 là 450.000 đồng/tín chỉ.
+- Học phí các năm học tiếp theo: Tăng bình quân không quá 10% /năm học.
+3.11. Thời gian dự kiến tuyển sinh các đợt trong năm: Đợt 1 tháng 4/2024; Đợt 2 tháng 6/2024; Đợt 3 tháng 9/2024; Đợt 4 tháng 12/2024.
+
+IV. TUYỂN SINH ĐÀO TẠO TỪ XA
+Công khai tuyển sinh đào tạo từ xa tại: https://tuyensinh.haui.edu.vn/dai-hoc/de-an-tuyen-sinh-dai-hoc
+4.1. Đối tượng, điều kiện tuyển sinh:
+a) Công dân Việt Nam: không giới hạn độ tuổi, có đủ sức khỏe để học tập (trường hợp người không đủ sức khỏe hoặc người tàn tật, Hiệu trưởng xem xét quyết định cho học ngành đào tạo phù hợp) và đã tốt nghiệp THPT hoặc tương đương trở lên;
+b) Công dân nước ngoài: không giới hạn độ tuổi, có đủ sức khỏe để học tập, điều kiện về trình độ văn hóa (có bằng tốt nghiệp THPT hoặc tương đương trở lên, được dịch và công chứng sang tiếng Việt có xác nhận công nhận giá trị văn bằng của Cục Quản lí chất lượng, Bộ GD&ĐT), giao tiếp được bằng tiếng Việt và đảm bảo các quy định quản lí người nước ngoài học tập tại Việt Nam.
+4.2. Phạm vi tuyển sinh: Chương trình đào tạo từ xa trình độ đại học (HaUI-Elearning) của Đại học Công nghiệp Hà Nội tuyển sinh trên cả nước và quốc tế.
+4.3. Phương thức tuyển sinh (thi tuyển, xét tuyển hoặc kết hợp thi tuyển và xét tuyển):
+4.3.1. Xét tuyển thẳng các đối tượng sau:
+a) Đối tượng được xét tuyển thẳng theo Quy chế tuyển sinh đại học hệ chính quy hiện hành.
+b) Đối tượng đã có bằng tốt nghiệp đại học.
+4.3.2. Xét tuyển đối tượng sử dụng kết quả học tập ở bậc học trước: 
+a) Đối với thí sinh có bằng tốt nghiệp cao đẳng: Xét tuyển theo điểm đánh giá xếp loại tốt nghiệp trên bảng điểm ở bậc Cao đẳng (thang điểm 10). Đối với thí sinh học theo tín chỉ ở bậc cao đẳng có điểm đánh giá xếp loại tốt nghiệp thang điểm 4, phải nộp bổ sung bảng điểm thang điểm 10 có xác nhận của cơ sở đào tạo. Trường hợp thí sinh không nộp bổ sung bảng điểm thang điểm 10, điểm đánh giá xếp loại tốt nghiệp ở thang điểm 4 của thí sinh sẽ được chuyển sang thang điểm 10 theo công thức sau: 
+Điểm đánh giá xếp loại tốt nghiệp (Thang điểm 10) = Điểm đánh giá xếp loại tốt nghiệp (Thang điểm 4)  10 / 4.
+b) Đối với thí sinh có bằng tốt nghiệp THPT hoặc tương đương: Xét tuyển dựa trên điểm trung bình cả năm của ba môn trong bảng điểm học bạ năm lớp 12 theo tổ hợp xét tuyển như của đại học chính quy.
+4.4. Chỉ tiêu tuyển sinh: Chỉ tiêu theo ngành/chương trình đào tạo
+4.5. Ngưỡng đầu vào
+a) Đối với đối tượng có bằng Cao đẳng: Thí sinh có điểm đánh giá xếp loại tốt nghiệp trên bảng điểm ở bậc Cao đẳng từ 5.0 trở lên theo thang điểm 10.
+b) Đối với đối tượng có bằng THPT hoặc tương đương: Thí sinh có tổng điểm trung bình cả năm lớp 12 của ba môn Toán, Ngoại ngữ, Ngữ văn trong bảng điểm học bạ năm lớp 12 từ 15 điểm trở lên.
+4.6. Các thông tin cần thiết khác để thí sinh dự tuyển vào các ngành của trường
+4.7. Tổ chức tuyển sinh: Thời gian; điều kiện nhận hồ sơ dự tuyển, hình thức nhận hồ sơ dự tuyển/thi tuyển. 
+Nguyên tắc xét tuyển ưu tiên theo thứ tự các nhóm đối tượng sau (nhóm đối tượng 1 có mức ưu tiên cao nhất) cho đến khi hết chỉ tiêu:
+Nhóm đối tượng 1: Thí sinh đã có bằng tốt nghiệp đại học, xét tuyển thẳng.
+Nhóm đối tượng 2: Thí sinh đã có bằng tốt nghiệp cao đẳng, xét tuyển từ cao đến thấp theo điểm đánh giá xếp loại tốt nghiệp trên bảng điểm bậc cao đẳng (thang điểm 10). Đối với thí sinh học theo tín chỉ ở bậc cao đẳng có điểm đánh giá xếp loại tốt nghiệp thang điểm 4, phải bổ sung bảng điểm thang điểm 10 có xác nhận của cơ sở đào tạo. Trường hợp thí sinh không nộp bổ sung bảng điểm thang điểm 10, điểm đánh giá xếp loại tốt nghiệp ở thang điểm 4 của thí sinh sẽ được chuyển sang thang điểm 10 theo công thức sau: Điểm đánh giá xếp loại tốt nghiệp(Thang điểm 10)=Điểm đánh giá xếp loại tốt nghiệp(Thang điểm 4)x10/4.
+Nhóm đối tượng 3: Đối tượng có bằng tốt nghiệp THPT, xét tuyển từ cao đến thấp theo tổng điểm trung bình cả năm của ba môn Toán, Ngoại ngữ, Ngữ văn trong bảng điểm học bạ năm lớp 12.
+Trong trường hợp vượt tổng chỉ tiêu tuyển sinh, thực hiện xét theo tiêu chí phụ sau:
+Đối với nhóm đối tượng 1 và 2: Tiêu chí phụ là điểm môn Ngoại ngữ (theo thang điểm 10) trong bảng điểm đại học/cao đẳng theo nguyên tắc lấy điểm từ cao xuống thấp. Trong trường hợp bảng điểm có nhiều học phần/môn Ngoại ngữ thì lấy điểm của học phần/môn Ngoại ngữ cao nhất.
+Đối với nhóm đối tượng 3: Tiêu chí phụ là điểm môn Toán trong bảng điểm học bạ năm lớp 12.
+4.8. Lệ phí xét tuyển/thi tuyển: Lệ phí tuyển sinh: 300.000 đồng/hồ sơ (không hoàn lại). Đến thời điểm xét tuyển, nếu thí sinh không đóng lệ phí xét tuyển hoặc thực hiện không đúng dẫn đến hệ thống chưa ghi nhận đã đóng lệ phí xét tuyển sẽ không được đưa vào hệ thống xét tuyển, coi như thí sinh từ bỏ việc đăng ký xét tuyển.
+4.9. Học phí dự kiến với sinh viên; lộ trình tăng học phí tối đa cho từng năm (nếu có):
+- Học phí bình quân các ngành/chương trình đào tạo tuyển sinh trong năm học 2024-2025 là 24,6 triệu đồng/năm học (Học phí thực tế trong từng học kỳ phụ thuộc số tín chỉ sinh viên đăng ký học trong học kỳ, đơn giá học phí năm học 2024-2025 là 500.000 đồng/tín chỉ).
+- Học phí các năm học tiếp theo: Tăng bình quân không quá 10% /năm học.
+4.10. Thời gian dự kiến tuyển sinh các đợt trong năm
+Chương trình đào tạo từ xa trình độ đại học của Trường Đại học Công nghiệp Hà Nội được tuyển sinh thành 4 đợt trong năm (dự kiến tháng 3, 6, 9, 12). Lịch tuyển sinh chi tiết được thể hiện trong Thông báo tuyển sinh của từng đợt cụ thể. Kết quả tuyển sinh của các đợt độc lập với nhau.
